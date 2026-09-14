@@ -1,0 +1,101 @@
+StoreSplit — Evaluation Licence
+Copyright (c) 2026 zsz13. All rights reserved.
+
+This repository is published so that people can read and evaluate the work.
+It is NOT open-source software. It is not offered under an OSI-approved
+licence, and no general permission to reuse it is granted.
+
+
+1. What you may do
+------------------
+
+You may view, read, and evaluate the contents of this repository as published
+on GitHub — including for technical assessment, recruitment screening, code
+review, research, and personal study.
+
+You may build and run the software locally for the purpose of evaluating it:
+starting it on your own machine to see how it behaves while reviewing this
+repository is part of evaluation, and is permitted.
+
+You may quote short excerpts when discussing or reviewing the project — in an
+article, a review, or an interview — with attribution.
+
+
+2. What requires prior written permission
+-----------------------------------------
+
+No other rights are granted. In particular, permission is NOT granted to:
+
+  - copy the software, in whole or in substantial part, for reuse elsewhere;
+  - modify it, or create derivative works from it;
+  - redistribute, publish, or republish it, or substantial portions of it;
+  - sublicense or sell it;
+  - incorporate it, or any substantial part of it, into another application,
+    product, or service, whether commercial or not;
+  - deploy it, host it, or operate it as a service for others;
+  - use it to provide a service that competes with StoreSplit.
+
+To ask for permission for any of the above, open an issue on this repository.
+
+
+3. Scope — what this licence covers
+-----------------------------------
+
+This licence applies to the original StoreSplit material in this repository
+(the source code, tests, configuration, and documentation authored for this
+project), and only to the extent that the copyright holder owns rights in it.
+
+It does NOT apply to, and grants no rights in:
+
+  - Third-party dependencies. Nothing in this repository redistributes them;
+    they are installed from their own sources and keep their own licences.
+
+  - Reference data that is not the copyright holder's.
+    `app/retailers/data/zip_centroids.csv` is the 2023 US Census ZCTA
+    Gazetteer, a US Government work in the public domain.
+
+  - Retailer-derived data. The vendored store directories, category seeds,
+    and catalogue snapshots under `app/retailers/`, and the captured payload
+    fixtures under `tests/fixtures/`, describe or reproduce data published by
+    the named retailers. That data belongs to those retailers. Nothing here
+    claims ownership of it, and this licence grants no rights over it.
+
+
+4. Trademarks and affiliation
+-----------------------------
+
+Retailer, company, and product names appear in this repository only to
+identify the data sources and services the software reads. They are the
+trademarks of their respective owners. StoreSplit is not affiliated with,
+endorsed by, sponsored by, or connected to any retailer or service named here.
+
+
+5. Relationship to GitHub's terms
+---------------------------------
+
+This repository is public on GitHub, and GitHub's Terms of Service give every
+GitHub user certain rights over public repositories — notably to view them,
+and to fork them within GitHub. This licence does not purport to override
+those terms and could not do so. It governs what you may do with this material
+beyond what GitHub's terms already allow.
+
+
+6. No warranty, no liability
+----------------------------
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF,
+OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+7. Not advice about your own use
+--------------------------------
+
+Nothing in this repository is advice about whether collecting data from a
+retailer's website is lawful or permitted where you are. Anyone evaluating or
+adapting the techniques shown here is responsible for their own compliance
+with applicable terms of service and law.
