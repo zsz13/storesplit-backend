@@ -1,0 +1,108 @@
+{
+  "bananas": [
+    {
+      "pid": "184700054",
+      "shelf": "Bananas|1_23_1_3"
+    }
+  ],
+  "bread": [
+    {
+      "pid": "960276900",
+      "shelf": "Sandwich Bread|1_2_10_1"
+    },
+    {
+      "pid": "971251338",
+      "shelf": "Sandwich Bread|1_2_10_1"
+    },
+    {
+      "pid": "960259283",
+      "shelf": "Flatbread & Pita Bread|1_2_9_2"
+    },
+    {
+      "pid": "960447152",
+      "shelf": "Sandwich Bread|1_2_10_1"
+    }
+  ],
+  "butter": [
+    {
+      "pid": "971410168",
+      "shelf": "Butter|1_11_1_1"
+    },
+    {
+      "pid": "960468598",
+      "shelf": "Butter|1_11_1_1"
+    },
+    {
+      "pid": "960321547",
+      "shelf": "Butter|1_11_1_1"
+    },
+    {
+      "pid": "970093029",
+      "shelf": "Butter|1_11_1_1"
+    }
+  ],
+  "chicken breast": [
+    {
+      "pid": "970032249",
+      "shelf": "Chicken & Turkey|1_19_6_2"
+    },
+    {
+      "pid": "971008003",
+      "shelf": "Chicken|1_19_2_1"
+    },
+    {
+      "pid": "970121843",
+      "shelf": "Chicken & Turkey|1_19_6_2"
+    },
+    {
+      "pid": "970336224",
+      "shelf": "Chicken|1_19_2_1"
+    }
+  ],
+  "eggs": [
+    {
+      "pid": "960100476",
+      "shelf": "Eggs|1_11_3_1"
+    },
+    {
+      "pid": "970123451",
+      "shelf": "Eggs|1_11_3_1"
+    }
+  ],
+  "milk": [
+    {
+      "pid": "960070742",
+      "shelf": "Milk|1_11_4_5"
+    },
+    {
+      "pid": "960068935",
+      "shelf": "Milk|1_11_4_5"
+    },
+    {
+      "pid": "970024416",
+      "shelf": "Milk|1_11_4_5"
+    },
+    {
+      "pid": "960325872",
+      "shelf": "Milk|1_11_4_5"
+    }
+  ],
+  "rice": [
+    {
+      "pid": "960121545",
+      "shelf": "Calrose Rice|1_6_9_4"
+    },
+    {
+      "pid": "960315472",
+      "shelf": "Brown Rice|1_6_9_3"
+    },
+    {
+      "pid": "960016306",
+      "shelf": "White Rice|1_6_9_9"
+    },
+    {
+      "pid": "971300222",
+      "shelf": "Rice Sides|1_6_10_3"
+    }
+  ]
+}

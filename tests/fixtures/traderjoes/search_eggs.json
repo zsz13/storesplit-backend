@@ -1,0 +1,135 @@
+{
+ "data": {
+  "products": {
+   "items": [
+    {
+     "sku": "062124",
+     "item_title": "Pasture Raised Large Brown Eggs",
+     "name": "EGGS LARGE BROWN PASTURE - RAISED DOZEN",
+     "sales_size": 1,
+     "sales_uom_description": "Doz",
+     "sales_uom_code": "7",
+     "retail_price": "5.99",
+     "price_range": {
+      "minimum_price": {
+       "final_price": {
+        "currency": "USD",
+        "value": 5.99,
+        "__typename": "Money"
+       },
+       "__typename": "ProductPrice"
+      },
+      "__typename": "PriceRange"
+     },
+     "availability": "1",
+     "promotion": null,
+     "product_label": null,
+     "new_product": "0",
+     "url_key": "062124-eggs-large-brown-pasture-raised-dozen",
+     "primary_image": "/content/dam/trjo/products/m20304/62124.png",
+     "category_hierarchy": [
+      {
+       "name": "Products"
+      },
+      {
+       "name": "Food"
+      },
+      {
+       "name": "Dairy & Eggs"
+      },
+      {
+       "name": "Eggs"
+      }
+     ]
+    },
+    {
+     "sku": "072270",
+     "item_title": "Organic Pasture Raised Large Brown Eggs",
+     "name": "EGGS LARGE BROWN ORGANIC PASTURE -RAISED DOZEN",
+     "sales_size": 1,
+     "sales_uom_description": "Doz",
+     "sales_uom_code": "7",
+     "retail_price": "6.99",
+     "price_range": {
+      "minimum_price": {
+       "final_price": {
+        "currency": "USD",
+        "value": 6.99,
+        "__typename": "Money"
+       },
+       "__typename": "ProductPrice"
+      },
+      "__typename": "PriceRange"
+     },
+     "availability": "1",
+     "promotion": null,
+     "product_label": null,
+     "new_product": "0",
+     "url_key": "072270-eggs-large-brown-organic-pasture-raised-dozen",
+     "primary_image": "/content/dam/trjo/products/m20304/72270.png",
+     "category_hierarchy": [
+      {
+       "name": "Products"
+      },
+      {
+       "name": "Food"
+      },
+      {
+       "name": "Dairy & Eggs"
+      },
+      {
+       "name": "Eggs"
+      }
+     ]
+    },
+    {
+     "sku": "006252",
+     "item_title": "Butter Quarters, Salted",
+     "name": "BUTTER QUARTERS SALTED",
+     "sales_size": 16,
+     "sales_uom_description": "Oz",
+     "sales_uom_code": "179",
+     "retail_price": "2.99",
+     "price_range": {
+      "minimum_price": {
+       "final_price": {
+        "currency": "USD",
+        "value": 2.99,
+        "__typename": "Money"
+       },
+       "__typename": "ProductPrice"
+      },
+      "__typename": "PriceRange"
+     },
+     "availability": "1",
+     "promotion": "0",
+     "product_label": null,
+     "new_product": "0",
+     "url_key": "006252-butter-quarters-salted",
+     "primary_image": "/content/dam/trjo/products/m20302/06252.png",
+     "category_hierarchy": [
+      {
+       "name": "Products"
+      },
+      {
+       "name": "Food"
+      },
+      {
+       "name": "Dairy & Eggs"
+      },
+      {
+       "name": "Butter"
+      }
+     ]
+    }
+   ],
+   "total_count": 148,
+   "page_info": {
+    "current_page": 1,
+    "page_size": 50,
+    "total_pages": 3,
+    "__typename": "SearchResultPageInfo"
+   }
+  }
+ }
+}

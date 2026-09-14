@@ -1,0 +1,205 @@
+{
+ "results": [
+  {
+   "regularPrice": 0.59,
+   "name": "Banana",
+   "slug": "produce-banana-b07fyykkqk",
+   "brand": "Produce",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/31dke4F-cTL.jpg",
+   "store": 10145,
+   "isLocal": false,
+   "uom": "lb"
+  },
+  {
+   "regularPrice": 0.79,
+   "name": "Organic Banana",
+   "slug": "produce-organic-banana-b0014gpskq",
+   "brand": "Produce",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/21Vsh5Se30L.jpg",
+   "store": 10145,
+   "isLocal": false,
+   "uom": "lb"
+  },
+  {
+   "regularPrice": 1.99,
+   "name": "Organic Baby Bananas",
+   "slug": "produce-organic-baby-bananas-b07fzcxy8m",
+   "brand": "Produce",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/410euvsASrL.jpg",
+   "store": 10145,
+   "isLocal": false,
+   "uom": "lb"
+  },
+  {
+   "regularPrice": 1.29,
+   "name": "Macho Plantain Banana",
+   "slug": "produce-macho-plantain-banana-b000se7y7u",
+   "brand": "Produce",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/31f9xDmlcvL.jpg",
+   "store": 10145,
+   "isLocal": false,
+   "uom": "lb"
+  },
+  {
+   "regularPrice": 1.49,
+   "name": "Incense Holder Banana, 1 EA",
+   "slug": "triloka-incense-holder-banana-1-ea-b00cq7iaxe",
+   "brand": "TRILOKA",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/11WXcYg2d0L.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 6.79,
+   "name": "Banana Nut Granola, 8 OZ",
+   "slug": "wildway-banana-nut-granola-8-oz-b07jn4c436",
+   "brand": "Wildway",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41Jts-anqlL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 8.99,
+   "name": "Banana Bread Pound Cake, 13.5 OZ",
+   "slug": "abes-banana-bread-pound-cake-135-oz-b07smlvgsz",
+   "brand": "Abe's",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41zgJS94jZL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 8.99,
+   "name": "Brown Butter Banana Tea Bread",
+   "slug": "whole-foods-market-brown-butter-banana-tea-bread-b0dlkqh9j9",
+   "brand": "WHOLE FOODS MARKET",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41B9JqXp-yL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 16.49,
+   "name": "Wyman's Banana Berry, 48 OZ",
+   "slug": "wymans-of-maine-wymans-banana-berry-48-oz-b01m1oabsv",
+   "brand": "Wymans of Maine",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/51PQbG-WPXL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 5.49,
+   "name": "Banana Nut Mini Muffin, 12ct",
+   "slug": "whole-foods-market-banana-nut-mini-muffin-12ct-b094jnlr6b",
+   "brand": "WHOLE FOODS MARKET",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41kROOJIzTL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 3.29,
+   "name": "Strawberry Banana Drinkable Greek Yogurt, 12 FZ",
+   "slug": "pillars-strawberry-banana-drinkable-greek-yogurt-12-fz-b07d6v4nfw",
+   "brand": "PILLARS",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/31gPW3Zi95L.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 8.99,
+   "name": "Banana Chocolate Chip Doughnut Muffins, 9 OZ",
+   "slug": "bisousweet-confections-banana-chocolate-chip-doughnut-muffins-9-oz-b0g5b8ksq3",
+   "brand": "Bisousweet Confections",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/61Wv-PmHOzL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 9.99,
+   "name": "Organic Chocolate Banana, 16 FZ",
+   "slug": "urban-remedy-organic-chocolate-banana-16-fz-b079jg58p8",
+   "brand": "Urban Remedy",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/319NPuGdfpL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 2.59,
+   "name": "Strawberry Banana Drinkable Greek Yogurt, 7 FZ",
+   "slug": "chobani-strawberry-banana-drinkable-greek-yogurt-7-fz-b07cr2j5y9",
+   "brand": "Chobani",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41wRTRqipLL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 2.75,
+   "name": "Brown Sugar Streusel Banana Nut Muffin",
+   "slug": "whole-foods-market-brown-sugar-streusel-banana-nut-muffin-b0bq23qcz2",
+   "brand": "Whole Foods Market",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41E-Mnon2xL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 8.49,
+   "name": "Strawberry Banana Nut Granola, 8 OZ",
+   "slug": "seven-sundays-strawberry-banana-nut-granola-8-oz-b0fm1l1hcs",
+   "brand": "Seven Sundays",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41kVQ7fbIVL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 8.99,
+   "name": "Original Banana Bread Mix, 8.95 OZ",
+   "slug": "go-nanas-original-banana-bread-mix-895-oz-b0bqzzz15w",
+   "brand": "Go Nanas",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41TkH9sY3YL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 2.19,
+   "name": "Strawberry Banana Coconut Yogurt, 5.3 OZ",
+   "slug": "so-delicious-strawberry-banana-coconut-yogurt-53-oz-b071h7rzmb",
+   "brand": "So Delicious",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41ywMPnS97L.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 4.29,
+   "salePrice": 7.78,
+   "incrementalSalePrice": 7,
+   "saleStartDate": "2026-09-02T00:00:00Z",
+   "saleEndDate": "2026-09-22T23:59:59Z",
+   "primeMultiple": 2,
+   "saleMultiple": 2,
+   "name": "Chocolate Banana Plant Protein Drink, 12 FZ",
+   "slug": "koia-chocolate-banana-plant-protein-drink-12-fz-b07nr8ncxh",
+   "brand": "Koia",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/4139pA9GtFL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 6.29,
+   "name": "Bananas for Bacon Dog Treats, 6 OZ",
+   "slug": "shameless-pets-bananas-for-bacon-dog-treats-6-oz-b08dg5lb7w",
+   "brand": "Shameless Pets",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41dnnBJAT9L.jpg",
+   "store": 10145,
+   "isLocal": false
+  }
+ ],
+ "meta": {
+  "total": {
+   "value": 111,
+   "relation": "EQUAL_TO"
+  },
+  "state": {
+   "searchText": "bananas",
+   "sort": "relevance"
+  }
+ },
+ "facets": []
+}

@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "locationId": "70300175",
+      "chain": "RALPHS",
+      "name": "Ralphs - Downtown LA",
+      "address": {"addressLine1": "645 W 9th St", "city": "Los Angeles", "state": "CA", "zipCode": "90012-1234"},
+      "geolocation": {"latitude": 34.0432, "longitude": -118.2617},
+      "phone": "2136240215"
+    }
+  ],
+  "meta": {"pagination": {"start": 0, "limit": 5, "total": 1}}
+}

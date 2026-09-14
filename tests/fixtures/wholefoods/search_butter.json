@@ -1,0 +1,232 @@
+{
+ "results": [
+  {
+   "regularPrice": 7.99,
+   "salePrice": 6.95,
+   "incrementalSalePrice": 6.25,
+   "saleStartDate": "2026-09-02T00:00:00Z",
+   "saleEndDate": "2026-09-22T23:59:59Z",
+   "name": "Organic Peanut Butter, 16 OZ",
+   "slug": "teddie-peanut-butter-organic-peanut-butter-16-oz-b06xgfzcmf",
+   "brand": "TEDDIE PEANUT BUTTER",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41ebuAvWTBL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 5.49,
+   "salePrice": 4.39,
+   "incrementalSalePrice": 3.95,
+   "saleStartDate": "2026-09-02T00:00:00Z",
+   "saleEndDate": "2026-09-22T23:59:59Z",
+   "name": "Smooth Peanut Butter, 16 OZ",
+   "slug": "teddie-peanut-butter-smooth-peanut-butter-16-oz-b001ro6z3o",
+   "brand": "TEDDIE PEANUT BUTTER",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41Ndp0FWJIL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 5.49,
+   "salePrice": 4.39,
+   "incrementalSalePrice": 3.95,
+   "saleStartDate": "2026-09-02T00:00:00Z",
+   "saleEndDate": "2026-09-22T23:59:59Z",
+   "name": "Unsalted Peanut Butter, 16 OZ",
+   "slug": "teddie-peanut-butter-unsalted-peanut-butter-16-oz-b009yzgeno",
+   "brand": "TEDDIE PEANUT BUTTER",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41HJw7AvSyL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 3.99,
+   "name": "Baby Butter, 1 EA",
+   "slug": "true-harvest-baby-butter-1-ea-b099sqxf7g",
+   "brand": "True Harvest",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/419f5u4h8-L.jpg",
+   "store": 10145,
+   "isLocal": true
+  },
+  {
+   "regularPrice": 16.69,
+   "salePrice": 11.49,
+   "incrementalSalePrice": 10.34,
+   "saleStartDate": "2026-09-04T00:00:00Z",
+   "saleEndDate": "2026-09-22T23:59:59Z",
+   "name": "Smooth Peanut Butter 2pk, 26 OZ",
+   "slug": "teddie-peanut-butter-smooth-peanut-butter-2pk-26-oz-b0d3hctllv",
+   "brand": "TEDDIE PEANUT BUTTER",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41xuX9YN-bL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 5.49,
+   "salePrice": 4.39,
+   "incrementalSalePrice": 3.95,
+   "saleStartDate": "2026-09-02T00:00:00Z",
+   "saleEndDate": "2026-09-22T23:59:59Z",
+   "name": "Super Chunky Peanut Butter, 16 OZ",
+   "slug": "teddie-peanut-butter-super-chunky-peanut-butter-16-oz-b0054y1u74",
+   "brand": "TEDDIE PEANUT BUTTER",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/51PC-UeL6SL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 5.99,
+   "name": "Irish Butter Tub, 8 OZ",
+   "slug": "kerrygold-irish-butter-tub-8-oz-b00ftc7dr2",
+   "brand": "Kerrygold",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41ArFjV0paL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 5.49,
+   "name": "Salted Butter Sticks, 8 OZ",
+   "slug": "kerrygold-salted-butter-sticks-8-oz-b01hxz021g",
+   "brand": "Kerrygold",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41UE-tu2pLL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 5.49,
+   "name": "Unsalted Butter Sticks, 8 OZ",
+   "slug": "kerrygold-unsalted-butter-sticks-8-oz-b01hxz022a",
+   "brand": "KERRYGOLD",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41aLHXKA-oL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 5.49,
+   "name": "Unsalted Irish Butter, 8 OZ",
+   "slug": "kerrygold-unsalted-irish-butter-8-oz-b0011edtgg",
+   "brand": "Kerrygold",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41738xQ1WSL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 5.49,
+   "name": "Salted Irish Butter, 8 OZ",
+   "slug": "kerrygold-salted-irish-butter-8-oz-b0011ekwbq",
+   "brand": "KERRYGOLD",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41imMfK4GzL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 10.99,
+   "salePrice": 10.38,
+   "incrementalSalePrice": 9.34,
+   "saleStartDate": "2026-09-02T00:00:00Z",
+   "saleEndDate": "2026-09-22T23:59:59Z",
+   "name": "Softer Butter Tub, 14 OZ",
+   "slug": "kerrygold-softer-butter-tub-14-oz-b0dh8jyx8p",
+   "brand": "Kerrygold",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41RSwTc0ciL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 10.99,
+   "salePrice": 10.38,
+   "incrementalSalePrice": 9.34,
+   "saleStartDate": "2026-09-02T00:00:00Z",
+   "saleEndDate": "2026-09-22T23:59:59Z",
+   "name": "Unsalted Butter Sticks, 16 OZ",
+   "slug": "kerrygold-unsalted-butter-sticks-16-oz-b0cpf1w6b5",
+   "brand": "Kerrygold",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41Zn4ZMumlL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 12.29,
+   "name": "No Added Salt or Sugar Smooth Almond Butter, 16 OZ",
+   "slug": "barney-butter-no-added-salt-or-sugar-smooth-almond-butter-16-oz-b009jzrm1m",
+   "brand": "Barney Butter",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41-n2F1gCVL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 9.99,
+   "name": "Organic Salted Butter, 16 OZ",
+   "slug": "organic-valley-organic-salted-butter-16-oz-b000o6eg6y",
+   "brand": "Organic Valley",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41N-nTQRJOL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 15.99,
+   "name": "Organic Roasted Almond Butter Stock",
+   "slug": "whole-foods-market-bulk-organic-roasted-almond-butter-stock-b07c98hgb5",
+   "brand": "Whole Foods Market Bulk",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41N-fEmWvfL.jpg",
+   "store": 10145,
+   "isLocal": false,
+   "uom": "lb"
+  },
+  {
+   "regularPrice": 3.49,
+   "name": "Garlic Herb Butter Stick, 3.5 OZ",
+   "slug": "kerrygold-garlic-herb-butter-stick-35-oz-b0011edtg6",
+   "brand": "Kerrygold",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/31YlGEEAZpL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 5.49,
+   "name": "High Heat Cooking Butter, 7 OZ",
+   "slug": "kerrygold-high-heat-cooking-butter-7-oz-b0fmjjpb6t",
+   "brand": "Kerrygold",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41BNLmDMiNL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 6.49,
+   "salePrice": 5.77,
+   "incrementalSalePrice": 5.19,
+   "saleStartDate": "2026-09-02T00:00:00Z",
+   "saleEndDate": "2026-09-22T23:59:59Z",
+   "name": "Organic Unsalted Butter, 8 OZ",
+   "slug": "nancys-yogurt-organic-unsalted-butter-8-oz-b0d2y59kdg",
+   "brand": "Nancys Yogurt",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/4131MfXD03L.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 10.99,
+   "salePrice": 10.38,
+   "incrementalSalePrice": 9.34,
+   "saleStartDate": "2026-09-02T00:00:00Z",
+   "saleEndDate": "2026-09-22T23:59:59Z",
+   "name": "Irish Salted Butter Sticks, 16 OZ",
+   "slug": "kerrygold-irish-salted-butter-sticks-16-oz-b09xzfdrrk",
+   "brand": "Kerrygold",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41LNOFCmtnL.jpg",
+   "store": 10145,
+   "isLocal": false
+  }
+ ],
+ "meta": {
+  "total": {
+   "value": 601,
+   "relation": "EQUAL_TO"
+  },
+  "state": {
+   "searchText": "butter",
+   "sort": "relevance"
+  }
+ },
+ "facets": []
+}

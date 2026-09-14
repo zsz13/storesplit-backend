@@ -1,0 +1,71 @@
+{
+ "code": 0,
+ "message": "Successful",
+ "success": true,
+ "data": {
+  "pageNum": 1,
+  "pageSize": 10,
+  "pages": 23,
+  "hasNextPage": true,
+  "total": 222,
+  "list": [
+   {
+    "productId": 1620089,
+    "articleNumber": 1620089,
+    "productName": "Sunvoi Coconut Milk",
+    "brandName": "SUNVOI",
+    "variantName": "13.5000 foz/each",
+    "netWeight": 13.5,
+    "netWeightUom": "FOZ",
+    "price": 1.69,
+    "retailPrice": 1.69,
+    "salePrice": 1.69,
+    "upcId": "673367200897",
+    "available": 27,
+    "saleUom": "Each",
+    "coupon": -1,
+    "purchaseLimit": 0,
+    "image": "https://img.awsprod.99ranch.com/a4b4bfa850d484d054157cd2b202256a.JPG",
+    "category": null
+   },
+   {
+    "productId": 1752975,
+    "articleNumber": 1752975,
+    "productName": "Lactaid Fat Free Milk",
+    "brandName": "LACTAID",
+    "variantName": "0.5000 gal/each",
+    "netWeight": 0.5,
+    "netWeightUom": "GAL",
+    "price": 5.49,
+    "retailPrice": 5.49,
+    "salePrice": 5.49,
+    "upcId": "041383090431",
+    "available": 1,
+    "saleUom": "Each",
+    "coupon": -1,
+    "purchaseLimit": 0,
+    "image": "https://img.awsprod.99ranch.com/a05566f43344c11ee362813fe5df5afc.JPG",
+    "category": null
+   },
+   {
+    "productId": 1140305,
+    "articleNumber": 1140305,
+    "productName": "Carnation Evaporated Milk F.F.",
+    "brandName": "CARNATION",
+    "variantName": "12.0000 foz/each",
+    "netWeight": 12.0,
+    "netWeightUom": "FOZ",
+    "price": 2.69,
+    "retailPrice": 2.69,
+    "salePrice": 2.69,
+    "upcId": "050000160112",
+    "available": 25,
+    "saleUom": "Each",
+    "coupon": -1,
+    "purchaseLimit": 0,
+    "image": "https://img.awsprod.99ranch.com/b4e6360561af57c4692666ec2a4e9f81.JPG",
+    "category": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,135 @@
+{
+ "data": {
+  "products": {
+   "items": [
+    {
+     "sku": "048053",
+     "item_title": "Bananas",
+     "name": "BANANA EACH",
+     "sales_size": 1,
+     "sales_uom_description": "Each",
+     "sales_uom_code": "1",
+     "retail_price": "0.23",
+     "price_range": {
+      "minimum_price": {
+       "final_price": {
+        "currency": "USD",
+        "value": 0.23,
+        "__typename": "Money"
+       },
+       "__typename": "ProductPrice"
+      },
+      "__typename": "PriceRange"
+     },
+     "availability": "1",
+     "promotion": null,
+     "product_label": null,
+     "new_product": "0",
+     "url_key": "048053-banana-each",
+     "primary_image": "/content/dam/trjo/products/m20701/48053.png",
+     "category_hierarchy": [
+      {
+       "name": "Products"
+      },
+      {
+       "name": "Food"
+      },
+      {
+       "name": "Fresh Fruits & Veggies"
+      },
+      {
+       "name": "Fruits"
+      }
+     ]
+    },
+    {
+     "sku": "095341",
+     "item_title": "Gone Bananas!",
+     "name": "GONE BANANAS DARK CHOCOLATE BANANA SLICES",
+     "sales_size": 8,
+     "sales_uom_description": "Oz",
+     "sales_uom_code": "179",
+     "retail_price": "2.99",
+     "price_range": {
+      "minimum_price": {
+       "final_price": {
+        "currency": "USD",
+        "value": 2.99,
+        "__typename": "Money"
+       },
+       "__typename": "ProductPrice"
+      },
+      "__typename": "PriceRange"
+     },
+     "availability": "1",
+     "promotion": null,
+     "product_label": null,
+     "new_product": "0",
+     "url_key": "095341-gone-bananas-dark-chocolate-banana-slices",
+     "primary_image": "/content/dam/trjo/products/m20604/95341.png",
+     "category_hierarchy": [
+      {
+       "name": "Products"
+      },
+      {
+       "name": "Food"
+      },
+      {
+       "name": "From The Freezer"
+      },
+      {
+       "name": "Cool Desserts"
+      }
+     ]
+    },
+    {
+     "sku": "050116",
+     "item_title": "Organic Bananas",
+     "name": "BANANA ORG EACH",
+     "sales_size": 1,
+     "sales_uom_description": "Each",
+     "sales_uom_code": "1",
+     "retail_price": "0.29",
+     "price_range": {
+      "minimum_price": {
+       "final_price": {
+        "currency": "USD",
+        "value": 0.29,
+        "__typename": "Money"
+       },
+       "__typename": "ProductPrice"
+      },
+      "__typename": "PriceRange"
+     },
+     "availability": "1",
+     "promotion": null,
+     "product_label": null,
+     "new_product": "0",
+     "url_key": "050116-banana-org-each",
+     "primary_image": "/content/dam/trjo/products/m20701/50116.png",
+     "category_hierarchy": [
+      {
+       "name": "Products"
+      },
+      {
+       "name": "Food"
+      },
+      {
+       "name": "Fresh Fruits & Veggies"
+      },
+      {
+       "name": "Fruits"
+      }
+     ]
+    }
+   ],
+   "total_count": 9,
+   "page_info": {
+    "current_page": 1,
+    "page_size": 50,
+    "total_pages": 1,
+    "__typename": "SearchResultPageInfo"
+   }
+  }
+ }
+}

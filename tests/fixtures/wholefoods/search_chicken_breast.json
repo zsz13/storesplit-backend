@@ -1,0 +1,222 @@
+{
+ "results": [
+  {
+   "regularPrice": 6.99,
+   "name": "Parmesan Crusted Chicken Breast Cutlets",
+   "slug": "meat-parmesan-crusted-chicken-breast-cutlets-b079vxc3q5",
+   "brand": "Meat",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/313-RPGcCPL.jpg",
+   "store": 10145,
+   "isLocal": false,
+   "uom": "lb"
+  },
+  {
+   "regularPrice": 7.99,
+   "name": "Chicken Breast Tenderloin",
+   "slug": "pine-manor-chicken-breast-tenderloin-b07dkqhkyk",
+   "brand": "Pine Manor",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/412SiXdFjVL.jpg",
+   "store": 10145,
+   "isLocal": false,
+   "uom": "lb"
+  },
+  {
+   "regularPrice": 9.99,
+   "name": "Organic Boneless Skinless Chicken Breast",
+   "slug": "meat-organic-boneless-skinless-chicken-breast-b0gj6bb369",
+   "brand": "Meat",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41C6VfZa88L.jpg",
+   "store": 10145,
+   "isLocal": false,
+   "uom": "lb"
+  },
+  {
+   "regularPrice": 6.99,
+   "name": "Garlic & Herb Boneless Chicken Breast",
+   "slug": "meat-garlic-herb-boneless-chicken-breast-b078thpjsj",
+   "brand": "Meat",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41D5KsMf2UL.jpg",
+   "store": 10145,
+   "isLocal": false,
+   "uom": "lb"
+  },
+  {
+   "regularPrice": 6.99,
+   "name": "Pecan Crusted Chicken Breast Cutlets",
+   "slug": "meat-pecan-crusted-chicken-breast-cutlets-b07816c4gh",
+   "brand": "Meat",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/516AZZK2rLL.jpg",
+   "store": 10145,
+   "isLocal": false,
+   "uom": "lb"
+  },
+  {
+   "regularPrice": 8.99,
+   "salePrice": 7.49,
+   "incrementalSalePrice": 6.74,
+   "saleStartDate": "2026-09-02T00:00:00Z",
+   "saleEndDate": "2026-09-08T23:59:59Z",
+   "name": "Garlic and Herb Chicken Breast Kabob",
+   "slug": "meat-garlic-and-herb-chicken-breast-kabob-b0chb5gs5s",
+   "brand": "Meat",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41SnCEmpjTL.jpg",
+   "store": 10145,
+   "isLocal": false,
+   "uom": "lb"
+  },
+  {
+   "regularPrice": 8.99,
+   "salePrice": 7.49,
+   "incrementalSalePrice": 6.74,
+   "saleStartDate": "2026-09-02T00:00:00Z",
+   "saleEndDate": "2026-09-08T23:59:59Z",
+   "name": "Carne Asada Chicken Breast Kabob",
+   "slug": "meat-carne-asada-chicken-breast-kabob-b07hg7rh1p",
+   "brand": "Meat",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41q4Kk4W0VL.jpg",
+   "store": 10145,
+   "isLocal": false,
+   "uom": "lb"
+  },
+  {
+   "regularPrice": 10.99,
+   "name": "Organic Boneless Skinless Chicken Breast Cutlets",
+   "slug": "meat-organic-boneless-skinless-chicken-breast-cutlets-b078f6txky",
+   "brand": "Meat",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/31qM8w3-HLL.jpg",
+   "store": 10145,
+   "isLocal": false,
+   "uom": "lb"
+  },
+  {
+   "regularPrice": 10.99,
+   "name": "Organic Chicken Breast Cutlet",
+   "slug": "pine-manor-organic-chicken-breast-cutlet-b0df77wl8g",
+   "brand": "Pine Manor",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/415Z3hNe7xL.jpg",
+   "store": 10145,
+   "isLocal": false,
+   "uom": "lb"
+  },
+  {
+   "regularPrice": 6.99,
+   "name": "Rosemary Garlic Crusted Chicken Breast Cutlet",
+   "slug": "meat-rosemary-garlic-crusted-chicken-breast-cutlet-b07dk7qykn",
+   "brand": "Meat",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/51nU787knJL.jpg",
+   "store": 10145,
+   "isLocal": false,
+   "uom": "lb"
+  },
+  {
+   "regularPrice": 5.99,
+   "name": "Boneless Skinless Chicken Breast",
+   "slug": "pine-manor-boneless-skinless-chicken-breast-b0787z9lz7",
+   "brand": "Pine Manor",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41l6mMQXQoL.jpg",
+   "store": 10145,
+   "isLocal": false,
+   "uom": "lb"
+  },
+  {
+   "regularPrice": 6.99,
+   "name": "Bourbon Whiskey Marinated Boneless Chicken Breast",
+   "slug": "meat-bourbon-whiskey-marinated-boneless-chicken-breast-b0787y5fb2",
+   "brand": "Meat",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41pMfFj6xyL.jpg",
+   "store": 10145,
+   "isLocal": false,
+   "uom": "lb"
+  },
+  {
+   "regularPrice": 6.99,
+   "name": "Boneless Skinless Chicken Breast",
+   "slug": "pine-manor-boneless-skinless-chicken-breast-b0787y2p9n",
+   "brand": "Pine Manor",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41P8db9WlfL.jpg",
+   "store": 10145,
+   "isLocal": false,
+   "uom": "lb"
+  },
+  {
+   "regularPrice": 9.99,
+   "name": "Boneless Skinless Heirloom Chicken Breast",
+   "slug": "marys-chicken-boneless-skinless-heirloom-chicken-breast-b07yft8jth",
+   "brand": "Mary's Chicken",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41X47T6VRGL.jpg",
+   "store": 10145,
+   "isLocal": false,
+   "uom": "lb"
+  },
+  {
+   "regularPrice": 8.99,
+   "name": "Organic Boneless Skinless Chicken Breast",
+   "slug": "pine-manor-organic-boneless-skinless-chicken-breast-b07c97rtzx",
+   "brand": "Pine Manor",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41RmknBNaSL.jpg",
+   "store": 10145,
+   "isLocal": false,
+   "uom": "lb"
+  },
+  {
+   "regularPrice": 9.99,
+   "name": "Organic Boneless Skinless Chicken Breast",
+   "slug": "pine-manor-organic-boneless-skinless-chicken-breast-b07881mlxv",
+   "brand": "Pine Manor",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41e4Yq6-38L.jpg",
+   "store": 10145,
+   "isLocal": false,
+   "uom": "lb"
+  },
+  {
+   "regularPrice": 7.99,
+   "name": "Ground Chicken Breast, 16 OZ",
+   "slug": "pine-manor-ground-chicken-breast-16-oz-b07bm95rbw",
+   "brand": "Pine Manor",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41CGnE2vypL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 7.99,
+   "name": "Boneless Skinless Chicken Breast Cutlet",
+   "slug": "pine-manor-boneless-skinless-chicken-breast-cutlet-b0787y5m5c",
+   "brand": "Pine Manor",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41EMMhOjqTL.jpg",
+   "store": 10145,
+   "isLocal": false,
+   "uom": "lb"
+  },
+  {
+   "regularPrice": 7.49,
+   "name": "Diced Boneless Skinless Chicken Breast",
+   "slug": "pine-manor-diced-boneless-skinless-chicken-breast-b079vnb6pw",
+   "brand": "Pine Manor",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/31-IXeUHW3L.jpg",
+   "store": 10145,
+   "isLocal": false,
+   "uom": "lb"
+  },
+  {
+   "regularPrice": 8.99,
+   "name": "Organic Bone In Split Chicken Breast",
+   "slug": "pine-manor-organic-bone-in-split-chicken-breast-b0787y621y",
+   "brand": "Pine Manor",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41YRvdNuRsL.jpg",
+   "store": 10145,
+   "isLocal": false,
+   "uom": "lb"
+  }
+ ],
+ "meta": {
+  "total": {
+   "value": 42,
+   "relation": "EQUAL_TO"
+  },
+  "state": {
+   "searchText": "chicken breast",
+   "sort": "relevance"
+  }
+ },
+ "facets": []
+}

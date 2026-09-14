@@ -1,0 +1,53 @@
+{
+ "data": {
+  "products": {
+   "items": [
+    {
+     "sku": "062124",
+     "item_title": "Pasture Raised Large Brown Eggs",
+     "name": "EGGS LARGE BROWN PASTURE - RAISED DOZEN",
+     "sales_size": 1,
+     "sales_uom_description": "Doz",
+     "sales_uom_code": "7",
+     "retail_price": "5.99",
+     "price_range": {
+      "minimum_price": {
+       "final_price": {
+        "currency": "USD",
+        "value": 5.99
+       }
+      }
+     },
+     "availability": "1",
+     "promotion": null,
+     "product_label": null,
+     "new_product": "0",
+     "url_key": "062124-eggs-large-brown-pasture-raised-dozen",
+     "category_hierarchy": [
+      {
+       "id": 2,
+       "name": "Products",
+       "url_key": "default-category"
+      },
+      {
+       "id": 8,
+       "name": "Food",
+       "url_key": "food"
+      },
+      {
+       "id": 44,
+       "name": "Dairy & Eggs",
+       "url_key": "dairy-eggs"
+      },
+      {
+       "id": 56,
+       "name": "Eggs",
+       "url_key": "eggs"
+      }
+     ]
+    }
+   ],
+   "total_count": 1
+  }
+ }
+}

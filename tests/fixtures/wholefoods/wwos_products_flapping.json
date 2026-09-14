@@ -1,0 +1,201 @@
+{
+  "_source": "GET /api/wwos/products?offerListingDiscriminator=A0SL&programType=GROCERY&asins=B07814PS49,B07YFT8JTH -- 8 reads, store 10717 Stonestown",
+  "bare_negative_reads": {
+    "B07814PS49": {
+      "brandName": "365 by Whole Foods Market",
+      "name": "365 by Whole Foods Market Boneless Skinless Chicken Breast",
+      "asin": "B07814PS49",
+      "programType": "GROCERY",
+      "description": "Boneless Skinless Chicken Breast",
+      "about": [
+        "Boneless Skinless Chicken Breast"
+      ],
+      "snapEbt": null,
+      "productImages": [
+        "https://m.media-amazon.com/images/I/51HXzgS67dL.jpg"
+      ],
+      "availability": null,
+      "ingredients": null,
+      "pdpType": "STANDARD",
+      "reheatingTag": null,
+      "reheatingInstructions": null,
+      "variationsList": null,
+      "bundleDetails": null,
+      "offerDetails": null,
+      "nutritionFacts": null,
+      "variableUnitOfMeasure": null,
+      "cookingTag": null,
+      "ctaTag": null,
+      "seasonalHolidayBadge": null,
+      "pastInteractionsBadge": null,
+      "bestSellerBadge": null,
+      "dietTypes": [],
+      "deliveryPromiseHtml": null,
+      "category": {
+        "productType": "POULTRY",
+        "glProductGroupSymbol": "gl_fresh_perishable",
+        "displayName": "Grocery"
+      },
+      "customizability": null
+    },
+    "B07YFT8JTH": {
+      "brandName": "Mary's Chicken",
+      "name": "Mary's Chicken Boneless Skinless Heirloom Chicken Breast",
+      "asin": "B07YFT8JTH",
+      "programType": "GROCERY",
+      "description": "Marys Chicken, Chicken Breast Boneless Skinless Heirloom Tray Pack Pasture-Raised Non-Gmo Step 4",
+      "about": [
+        "Meets standards for animal welfare, feed, and more, so you can know about what you're buying (and eating)",
+        "No antibiotics or added growth hormones (there are no hormones approved for use in the production of poultry)",
+        "No animal by-products in feed",
+        "Step 4 Rated by Global Animal Partnership, which means the animal is raised on pasture or outdoor foraging areas with no feedlots (in addition to 1+ other requirements)",
+        "Raised in the USA"
+      ],
+      "snapEbt": null,
+      "productImages": [
+        "https://m.media-amazon.com/images/I/613FmDAPqDL.jpg"
+      ],
+      "availability": null,
+      "ingredients": null,
+      "pdpType": "STANDARD",
+      "reheatingTag": null,
+      "reheatingInstructions": null,
+      "variationsList": null,
+      "bundleDetails": null,
+      "offerDetails": null,
+      "nutritionFacts": null,
+      "variableUnitOfMeasure": null,
+      "cookingTag": null,
+      "ctaTag": null,
+      "seasonalHolidayBadge": null,
+      "pastInteractionsBadge": null,
+      "bestSellerBadge": null,
+      "dietTypes": [
+        "paleo",
+        "gluten_free"
+      ],
+      "deliveryPromiseHtml": null,
+      "category": {
+        "productType": "POULTRY",
+        "glProductGroupSymbol": "gl_fresh_perishable",
+        "displayName": "Grocery"
+      },
+      "customizability": null
+    }
+  },
+  "live_offer_reads": {
+    "B07YFT8JTH": {
+      "brandName": "Mary's Chicken",
+      "name": "Mary's Chicken Boneless Skinless Heirloom Chicken Breast",
+      "asin": "B07YFT8JTH",
+      "programType": "GROCERY",
+      "description": "Marys Chicken, Chicken Breast Boneless Skinless Heirloom Tray Pack Pasture-Raised Non-Gmo Step 4",
+      "about": [
+        "Meets standards for animal welfare, feed, and more, so you can know about what you're buying (and eating)",
+        "No antibiotics or added growth hormones (there are no hormones approved for use in the production of poultry)",
+        "No animal by-products in feed",
+        "Step 4 Rated by Global Animal Partnership, which means the animal is raised on pasture or outdoor foraging areas with no feedlots (in addition to 1+ other requirements)",
+        "Raised in the USA"
+      ],
+      "snapEbt": "SNAP EBT eligible",
+      "productImages": [
+        "https://m.media-amazon.com/images/I/613FmDAPqDL.jpg"
+      ],
+      "availability": "IN_STOCK",
+      "ingredients": "Non-GMO Heirloom Boneless Skinless Chicken Breast",
+      "pdpType": "STANDARD",
+      "reheatingTag": null,
+      "reheatingInstructions": null,
+      "variationsList": null,
+      "bundleDetails": null,
+      "offerDetails": {
+        "price": {
+          "currencyCode": "USD",
+          "priceAmount": 9.99,
+          "basisPriceAmount": null,
+          "savings": {
+            "currencyCode": null,
+            "savingsAmount": null,
+            "percentSavings": null
+          },
+          "primeBenefit": {
+            "isApplied": null,
+            "text": null,
+            "currencyCode": null,
+            "priceAmount": null,
+            "savingsAmount": null
+          }
+        },
+        "unitPrice": null,
+        "offerListingId": "PY2xpLv7KtmFmaXp5NLX6FfZHLpdN6bt4K%2FCPr8t56h%2BJtOJ4pny01R3YqfX5WU7y0XOW%2FwXbFSz5gFAXs86QY2pajcJkPOmcHy2SmzLT%2FF33sDBw1OJVNUioXMYEAww5pRv4c9cIJOWFubhG8FLaWHaGtj5ME5hcY1oqQzdqpDM46pi%2Fh4k6sGuDP5eWnY6",
+        "maxOrderQuantity": 9,
+        "isMaxQuantityRestricted": true
+      },
+      "nutritionFacts": null,
+      "variableUnitOfMeasure": {
+        "pricingUom": {
+          "dimension": "WEIGHT",
+          "unit": "POUNDS"
+        },
+        "sellingUom": {
+          "dimension": "WEIGHT",
+          "unit": "POUNDS"
+        },
+        "selectorItemList": [
+          {
+            "selectorPrice": {
+              "baseUnit": null,
+              "currencyCode": "USD",
+              "priceAmount": 14.99
+            },
+            "selectorSellingQuantityString": "1.50 lb",
+            "selectorSellingQuantityValue": 1.5
+          },
+          {
+            "selectorPrice": {
+              "baseUnit": null,
+              "currencyCode": "USD",
+              "priceAmount": 29.97
+            },
+            "selectorSellingQuantityString": "3.00 lb",
+            "selectorSellingQuantityValue": 3
+          },
+          {
+            "selectorPrice": {
+              "baseUnit": null,
+              "currencyCode": "USD",
+              "priceAmount": 44.96
+            },
+            "selectorSellingQuantityString": "4.50 lb",
+            "selectorSellingQuantityValue": 4.5
+          },
+          {
+            "selectorPrice": {
+              "baseUnit": null,
+              "currencyCode": "USD",
+              "priceAmount": 59.94
+            },
+            "selectorSellingQuantityString": "6.00 lb",
+            "selectorSellingQuantityValue": 6
+          }
+        ]
+      },
+      "cookingTag": null,
+      "ctaTag": "UNRECOGNIZED_SIGN_IN",
+      "seasonalHolidayBadge": null,
+      "pastInteractionsBadge": null,
+      "bestSellerBadge": null,
+      "dietTypes": [
+        "paleo",
+        "gluten_free"
+      ],
+      "deliveryPromiseHtml": "<div data-cy=\"delivery-block\" class=\"a-section a-spacing-none a-padding-none udm-delivery-block\"><div class=\"a-row a-size-small a-color-base udm-primary-delivery-message\"><div class=\"a-column a-span12\">$9.95 delivery <span id=\"WVCRIAFWG\" class=\"a-text-bold\">Today 9\u202fPM - 11\u202fPM</span> with Prime</div></div></div>",
+      "category": {
+        "productType": "POULTRY",
+        "glProductGroupSymbol": "gl_fresh_perishable",
+        "displayName": "Grocery"
+      },
+      "customizability": null
+    }
+  }
+}

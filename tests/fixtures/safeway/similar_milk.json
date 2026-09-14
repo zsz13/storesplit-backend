@@ -1,0 +1,263 @@
+{
+ "response": {
+  "numFound": 2,
+  "start": 0,
+  "docs": [
+   {
+    "status": "active",
+    "name": "a2 Milk Whole Milk - Half Gallon",
+    "pid": "960158209",
+    "upc": "0081326702000",
+    "id": "960158209",
+    "storeId": "4601",
+    "featured": false,
+    "inventoryAvailable": "1",
+    "pastPurchased": false,
+    "isDYOCake": false,
+    "restrictedValue": "0",
+    "salesRank": 890,
+    "agreementId": 0,
+    "featuredProductId": 0,
+    "imageUrl": "https://images.albertsons-media.com/is/image/ABS/960158209",
+    "rogCd": "SNCA",
+    "price": 4.99,
+    "promoDescription": "Club Card Price: $4.99 Save Up To: $0.5",
+    "promoText": " $4.99 Save Up To: $0.5",
+    "promoType": "P",
+    "promoEndDate": "2026-09-29T23:59:00",
+    "basePrice": 5.49,
+    "basePricePer": 0.09,
+    "pricePer": 0.08,
+    "displayType": "-1",
+    "aisleId": "1_11_4_5",
+    "aisleName": "Milk & Cream|1_11_4",
+    "departmentName": "Dairy, Eggs & Cheese",
+    "shelfName": "Milk",
+    "shelfNameWithId": "Milk|1_11_4_5",
+    "aisleLocation": "Dairy",
+    "shelfXcoordinateNbr": "0",
+    "shelfYcoordinateNbr": "52.5",
+    "slotXcoordinateNbr": "27.75",
+    "slotYcoordinateNbr": "0",
+    "fixtureXcoordinateNbr": "4391.49",
+    "fixtureYcoordinateNbr": "3194.49",
+    "aislePositionTxt": "RIGHT",
+    "shelfDimensionDpth": "24",
+    "snapEligible": true,
+    "unitOfMeasure": "FZ",
+    "sellByWeight": "I",
+    "averageWeight": [
+     "0.000"
+    ],
+    "unitQuantity": "FL.OZ",
+    "displayUnitQuantityText": "ea",
+    "displayEstimateText": null,
+    "previousPurchaseQty": 0,
+    "maxPurchaseQty": 50,
+    "minWeight": "0.000",
+    "maxWeight": "0.000",
+    "isHhcProduct": false,
+    "prop65WarningTypeCD": "",
+    "prop65WarningText": "",
+    "prop65WarningIconRequired": false,
+    "isArProduct": true,
+    "isMtoProduct": false,
+    "isCustomizable": false,
+    "inStoreShoppingElig": false,
+    "preparationTime": "0",
+    "isMarketplaceItem": "N",
+    "algoType": "",
+    "triggerQuantity": 0,
+    "idOfAisle": "1_11_4",
+    "idOfShelf": "1_11_4_5",
+    "idOfDepartment": "1_11",
+    "requiresReturn": false,
+    "channelEligibility": {
+     "pickUp": true,
+     "delivery": true,
+     "inStore": true,
+     "shipping": false
+    },
+    "channelInventory": {
+     "delivery": "1",
+     "pickup": "1",
+     "instore": "1",
+     "deliveryItemQty": 4,
+     "pickupItemQty": 4,
+     "instoreItemQty": 4,
+     "shipping": "0"
+    },
+    "dispItemSizeQty": "59",
+    "dispItemPackageQty": "1",
+    "dispUnitOfMeasure": "fl oz",
+    "itemRetailSect": "314",
+    "badges": [],
+    "labels": [
+     {
+      "labelName": "59 fl oz",
+      "accessibilityText": "59 Fluid Ounces",
+      "replacePlaceholder": false,
+      "isBoldText": true,
+      "labelTypeAsLink": false,
+      "isLabelAppOnly": false
+     },
+     {
+      "labelName": "SNAP",
+      "accessibilityText": "snap",
+      "replacePlaceholder": false,
+      "isBoldText": false,
+      "labelTypeAsLink": false,
+      "isLabelAppOnly": false
+     },
+     {
+      "labelName": "More types",
+      "accessibilityText": "More types",
+      "replacePlaceholder": false,
+      "isBoldText": false,
+      "labelTypeAsLink": true,
+      "isLabelAppOnly": true
+     }
+    ],
+    "variantDisplayText": "More types",
+    "variantDetails": [
+     {
+      "variantName": "Type",
+      "variantValue": "Whole Milk"
+     },
+     {
+      "variantName": "Size",
+      "variantValue": "59 fl oz"
+     }
+    ],
+    "containsAlcohol": false,
+    "alcoholVolumePct": 0
+   },
+   {
+    "status": "active",
+    "name": "Clover Organic Whole Milk Ultra Pasteurized - Half Gallon",
+    "pid": "960120518",
+    "upc": "0007085299324",
+    "id": "960120518",
+    "storeId": "4601",
+    "featured": false,
+    "inventoryAvailable": "1",
+    "pastPurchased": false,
+    "isDYOCake": false,
+    "restrictedValue": "0",
+    "salesRank": 3827,
+    "agreementId": 0,
+    "featuredProductId": 0,
+    "imageUrl": "https://images.albertsons-media.com/is/image/ABS/960120518",
+    "rogCd": "SNCA",
+    "price": 6.99,
+    "promoEndDate": null,
+    "basePrice": 6.99,
+    "basePricePer": 0.11,
+    "pricePer": 0.11,
+    "displayType": "-1",
+    "aisleId": "1_11_4_5",
+    "aisleName": "Milk & Cream|1_11_4",
+    "departmentName": "Dairy, Eggs & Cheese",
+    "shelfName": "Milk",
+    "shelfNameWithId": "Milk|1_11_4_5",
+    "aisleLocation": "Dairy",
+    "shelfXcoordinateNbr": "0",
+    "shelfYcoordinateNbr": "52.5",
+    "slotXcoordinateNbr": "43.65",
+    "slotYcoordinateNbr": "0",
+    "fixtureXcoordinateNbr": "4391.49",
+    "fixtureYcoordinateNbr": "3194.49",
+    "aislePositionTxt": "RIGHT",
+    "shelfDimensionDpth": "24",
+    "snapEligible": true,
+    "unitOfMeasure": "HG",
+    "sellByWeight": "I",
+    "averageWeight": [
+     "0.000"
+    ],
+    "unitQuantity": "FL.OZ",
+    "displayUnitQuantityText": "ea",
+    "displayEstimateText": null,
+    "previousPurchaseQty": 0,
+    "maxPurchaseQty": 50,
+    "minWeight": "0.000",
+    "maxWeight": "0.000",
+    "isHhcProduct": false,
+    "prop65WarningTypeCD": "",
+    "prop65WarningText": "",
+    "prop65WarningIconRequired": false,
+    "isArProduct": true,
+    "isMtoProduct": false,
+    "isCustomizable": false,
+    "inStoreShoppingElig": false,
+    "preparationTime": "0",
+    "isMarketplaceItem": "N",
+    "algoType": "",
+    "triggerQuantity": 0,
+    "idOfAisle": "1_11_4",
+    "idOfShelf": "1_11_4_5",
+    "idOfDepartment": "1_11",
+    "requiresReturn": false,
+    "channelEligibility": {
+     "pickUp": true,
+     "delivery": true,
+     "inStore": true,
+     "shipping": false
+    },
+    "channelInventory": {
+     "delivery": "1",
+     "pickup": "1",
+     "instore": "1",
+     "deliveryItemQty": 27,
+     "pickupItemQty": 27,
+     "instoreItemQty": 27,
+     "shipping": "0"
+    },
+    "dispItemSizeQty": "1",
+    "dispItemPackageQty": "1",
+    "dispUnitOfMeasure": "HG",
+    "itemRetailSect": "314",
+    "badges": [],
+    "labels": [
+     {
+      "labelName": "1 hg",
+      "accessibilityText": "1 Half gallon",
+      "replacePlaceholder": false,
+      "isBoldText": true,
+      "labelTypeAsLink": false,
+      "isLabelAppOnly": false
+     },
+     {
+      "labelName": "SNAP",
+      "accessibilityText": "snap",
+      "replacePlaceholder": false,
+      "isBoldText": false,
+      "labelTypeAsLink": false,
+      "isLabelAppOnly": false
+     },
+     {
+      "labelName": "More types",
+      "accessibilityText": "More types",
+      "replacePlaceholder": false,
+      "isBoldText": false,
+      "labelTypeAsLink": true,
+      "isLabelAppOnly": true
+     }
+    ],
+    "variantDisplayText": "More types",
+    "variantDetails": [
+     {
+      "variantName": "Type",
+      "variantValue": "Whole"
+     },
+     {
+      "variantName": "Size",
+      "variantValue": "1 HG"
+     }
+    ],
+    "containsAlcohol": false,
+    "alcoholVolumePct": 0
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+# Local StoreSplit stack: PostgreSQL + backend API + frontend (from ../storesplit-frontend).
+#   cd ~/github/storesplit-backend && docker compose up --build
+services:
+  db:
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_USER: storesplit
+      POSTGRES_PASSWORD: storesplit
+      POSTGRES_DB: storesplit
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U storesplit -d storesplit"]
+      interval: 3s
+      timeout: 3s
+      retries: 20
+
+  backend:
+    # No browser here, deliberately: the image carries neither Chrome nor the `browser` extra,
+    # so BROWSER_FALLBACK_ENABLED would only make Target and Walmart report themselves
+    # unconfigured. That layer is a headed browser a person answers challenges in, and it runs
+    # on the host, against a profile in the host's home directory. Turning it on in a container
+    # would mean a brand-new profile per `docker compose up` -- a new visitor every time, which
+    # is what provokes the challenges in the first place.
+    build: .
+    environment:
+      DATABASE_URL: postgresql+asyncpg://storesplit:storesplit@db:5432/storesplit
+      LOG_LEVEL: INFO
+      CORS_ORIGINS: http://localhost:3000,http://127.0.0.1:3000,http://[::1]:3000
+      KROGER_CLIENT_ID: ${KROGER_CLIENT_ID:-}
+      KROGER_CLIENT_SECRET: ${KROGER_CLIENT_SECRET:-}
+      AI_JUDGE_ENABLED: "false"
+    ports:
+      - "8000:8000"
+    depends_on:
+      db:
+        condition: service_healthy
+
+  frontend:
+    build:
+      context: ../storesplit-frontend
+      args:
+        NEXT_PUBLIC_API_URL: http://localhost:8000
+    environment:
+      NEXT_PUBLIC_API_URL: http://localhost:8000
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+
+volumes:
+  pgdata:

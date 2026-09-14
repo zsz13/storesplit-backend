@@ -1,0 +1,585 @@
+{
+ "name": "Eggland's Best Brown Cage Free Large Eggs",
+ "defaultCategory": "Specialty Eggs",
+ "categories": [
+  {
+   "categoryId": "56a83c1a-47d9-46a4-85c4-a6c9183ec1ff",
+   "retailerId": "M",
+   "category": "Home",
+   "categoryBreadcrumb": "/Home",
+   "queryPart": "f=Breadcrumb%3Asmart%26final%2Fhome"
+  },
+  {
+   "categoryId": "2236b3ac-e4e8-4a82-8261-67afe9bbba41",
+   "retailerId": "M-12",
+   "category": "Dairy",
+   "categoryBreadcrumb": "/Home/Dairy",
+   "queryPart": "f=Breadcrumb%3Asmart%26final%2Fhome%2Fdairy"
+  },
+  {
+   "categoryId": "83812298-0475-4b17-8088-e97d1fc72098",
+   "retailerId": "M-12-04",
+   "category": "Eggs, Egg Products",
+   "categoryBreadcrumb": "/Home/Dairy/Eggs, Egg Products",
+   "queryPart": "f=Breadcrumb%3Asmart%26final%2Fhome%2Fdairy%2Feggs,%20egg%20products"
+  },
+  {
+   "categoryId": "461a98e9-5431-4ff2-81f8-1ac692fda630",
+   "retailerId": "M-12-04-030",
+   "category": "Specialty Eggs",
+   "categoryBreadcrumb": "/Home/Dairy/Eggs, Egg Products/Specialty Eggs",
+   "queryPart": "f=Breadcrumb%3Asmart%26final%2Fhome%2Fdairy%2Feggs,%20egg%20products%2Fspecialty%20eggs"
+  }
+ ],
+ "sku": "00715141514643",
+ "description": "Brown Cage Free Large Eggs",
+ "brand": "Eggland's Best",
+ "ingredients": null,
+ "primaryImage": {
+  "default": "https://images.cdn.smartandfinal.com/cell/68fc6f98-8e41-41c6-9af5-0969c1f1421b.jpeg",
+  "cell": "https://images.cdn.smartandfinal.com/cell/68fc6f98-8e41-41c6-9af5-0969c1f1421b.jpeg",
+  "details": "https://images.cdn.smartandfinal.com/detail/68fc6f98-8e41-41c6-9af5-0969c1f1421b.jpeg",
+  "zoom": "https://images.cdn.smartandfinal.com/zoom/68fc6f98-8e41-41c6-9af5-0969c1f1421b.jpeg",
+  "template": "https://images.cdn.smartandfinal.com/{size}/68fc6f98-8e41-41c6-9af5-0969c1f1421b.jpeg"
+ },
+ "additionalImages": {
+  "default": [
+   "https://storage.googleapis.com/images-che-prd-2b77e46.che.prd.v8.commerce.mi9cloud.com/product-images/cell/2be0af82-37f4-4ff6-9b25-f3b4f9e6ca51.jpeg",
+   "https://storage.googleapis.com/images-che-prd-2b77e46.che.prd.v8.commerce.mi9cloud.com/product-images/cell/96aa17b9-d122-466b-a3b0-2d29194ccfe1.jpeg",
+   "https://storage.googleapis.com/images-che-prd-2b77e46.che.prd.v8.commerce.mi9cloud.com/product-images/cell/3e79f7d0-ab48-4738-9e7a-c8a609a9d183.jpeg"
+  ],
+  "cell": [
+   "https://storage.googleapis.com/images-che-prd-2b77e46.che.prd.v8.commerce.mi9cloud.com/product-images/cell/2be0af82-37f4-4ff6-9b25-f3b4f9e6ca51.jpeg",
+   "https://storage.googleapis.com/images-che-prd-2b77e46.che.prd.v8.commerce.mi9cloud.com/product-images/cell/96aa17b9-d122-466b-a3b0-2d29194ccfe1.jpeg",
+   "https://storage.googleapis.com/images-che-prd-2b77e46.che.prd.v8.commerce.mi9cloud.com/product-images/cell/3e79f7d0-ab48-4738-9e7a-c8a609a9d183.jpeg"
+  ],
+  "details": [
+   "https://storage.googleapis.com/images-che-prd-2b77e46.che.prd.v8.commerce.mi9cloud.com/product-images/detail/2be0af82-37f4-4ff6-9b25-f3b4f9e6ca51.jpeg",
+   "https://storage.googleapis.com/images-che-prd-2b77e46.che.prd.v8.commerce.mi9cloud.com/product-images/detail/96aa17b9-d122-466b-a3b0-2d29194ccfe1.jpeg",
+   "https://storage.googleapis.com/images-che-prd-2b77e46.che.prd.v8.commerce.mi9cloud.com/product-images/detail/3e79f7d0-ab48-4738-9e7a-c8a609a9d183.jpeg"
+  ],
+  "zoom": [
+   "https://storage.googleapis.com/images-che-prd-2b77e46.che.prd.v8.commerce.mi9cloud.com/product-images/zoom/2be0af82-37f4-4ff6-9b25-f3b4f9e6ca51.jpeg",
+   "https://storage.googleapis.com/images-che-prd-2b77e46.che.prd.v8.commerce.mi9cloud.com/product-images/zoom/96aa17b9-d122-466b-a3b0-2d29194ccfe1.jpeg",
+   "https://storage.googleapis.com/images-che-prd-2b77e46.che.prd.v8.commerce.mi9cloud.com/product-images/zoom/3e79f7d0-ab48-4738-9e7a-c8a609a9d183.jpeg"
+  ],
+  "template": [
+   "https://storage.googleapis.com/images-che-prd-2b77e46.che.prd.v8.commerce.mi9cloud.com/product-images/{size}/2be0af82-37f4-4ff6-9b25-f3b4f9e6ca51.jpeg",
+   "https://storage.googleapis.com/images-che-prd-2b77e46.che.prd.v8.commerce.mi9cloud.com/product-images/{size}/96aa17b9-d122-466b-a3b0-2d29194ccfe1.jpeg",
+   "https://storage.googleapis.com/images-che-prd-2b77e46.che.prd.v8.commerce.mi9cloud.com/product-images/{size}/3e79f7d0-ab48-4738-9e7a-c8a609a9d183.jpeg"
+  ]
+ },
+ "unitsOfSize": {
+  "abbreviation": "",
+  "type": "each",
+  "label": "Each",
+  "size": 12.0
+ },
+ "weightIncrement": null,
+ "sellBy": "each",
+ "nutritionProfiles": {
+  "nutrition": {
+   "Total Fat": {
+    "size": 4.0,
+    "unit": "gram",
+    "abbreviation": "g",
+    "percentDailyValue": 5.0,
+    "traceAmount": false
+   },
+   "Cholesterol": {
+    "size": 170.0,
+    "unit": "milligram",
+    "abbreviation": "mg",
+    "percentDailyValue": 57.0,
+    "traceAmount": false
+   },
+   "Total Carbohydrate": {
+    "size": 0.0,
+    "unit": "gram",
+    "abbreviation": "g",
+    "percentDailyValue": 0.0,
+    "traceAmount": false
+   },
+   "Dietary Fiber": {
+    "size": 0.0,
+    "unit": "gram",
+    "abbreviation": "g",
+    "percentDailyValue": null,
+    "traceAmount": false
+   },
+   "Calcium": {
+    "size": 30.0,
+    "unit": "milligram",
+    "abbreviation": "mg",
+    "percentDailyValue": 2.0,
+    "traceAmount": false
+   },
+   "Potassium": {
+    "size": 70.0,
+    "unit": "milligram",
+    "abbreviation": "mg",
+    "percentDailyValue": 0.0,
+    "traceAmount": false
+   },
+   "Sodium": {
+    "size": 65.0,
+    "unit": "milligram",
+    "abbreviation": "mg",
+    "percentDailyValue": 3.0,
+    "traceAmount": false
+   },
+   "Calories": {
+    "size": 60.0,
+    "unit": "kilocalorie",
+    "abbreviation": "kcal",
+    "percentDailyValue": null,
+    "traceAmount": false
+   },
+   "Protein": {
+    "size": 6.0,
+    "unit": "gram",
+    "abbreviation": "g",
+    "percentDailyValue": 13.0,
+    "traceAmount": false
+   },
+   "Saturated Fat": {
+    "size": 1.0,
+    "unit": "gram",
+    "abbreviation": "g",
+    "percentDailyValue": 6.0,
+    "traceAmount": false
+   },
+   "Trans fat": {
+    "size": 0.0,
+    "unit": "gram",
+    "abbreviation": "g",
+    "percentDailyValue": null,
+    "traceAmount": false
+   },
+   "Iron": {
+    "size": 0.9,
+    "unit": "milligram",
+    "abbreviation": "mg",
+    "percentDailyValue": 4.0,
+    "traceAmount": false
+   },
+   "Added Sugars": {
+    "size": 0.0,
+    "unit": "gram",
+    "abbreviation": "g",
+    "percentDailyValue": null,
+    "traceAmount": false
+   },
+   "Vitamin D": {
+    "size": 6.0,
+    "unit": "microgram",
+    "abbreviation": "\u03bcg",
+    "percentDailyValue": 30.0,
+    "traceAmount": false
+   },
+   "Total Sugars": {
+    "size": 0.0,
+    "unit": "gram",
+    "abbreviation": "g",
+    "percentDailyValue": null,
+    "traceAmount": false
+   }
+  }
+ },
+ "servingSize": null,
+ "numberOfServings": 12,
+ "wasPrice": null,
+ "wasUnitPrice": null,
+ "price": "$5.99",
+ "priceLabel": "",
+ "unitPrice": "$0.50 each",
+ "subtotalWithLoyalty": null,
+ "subtotalWithoutLoyalty": null,
+ "hasLoyaltyDiscount": false,
+ "unitPriceWithLoyalty": null,
+ "unitPriceWithoutLoyalty": null,
+ "isFavourite": false,
+ "promotions": null,
+ "pointsBasedPromotions": null,
+ "tprInfo": null,
+ "attributes": {
+  "alcohol_restricted": false,
+  "pickup_only": false,
+  "bmsm": false,
+  "our_brands": false,
+  "club_sized": false,
+  "instore_only": false,
+  "LastUpdatedUser": "MDMoverridesAdd",
+  "LastUpdateTime": "2026-09-08T01:35:54.965+00:00",
+  "kosher": true,
+  "Fat Free": false,
+  "SYNDIGO_last_modified_date": "2025-04-16T20:14:05.7656906Z",
+  "organic": false,
+  "gluten free": false,
+  "Low Sodium": false,
+  "Dairy Free": false,
+  "Halal": false,
+  "No Added Sugar": false,
+  "Vegan": false,
+  "Egg Free": false,
+  "Lactose Free": false,
+  "Peanut Free": false,
+  "Keto Friendly": false,
+  "No High Fructose Corn Syrup": false,
+  "Low FODMAP": false,
+  "Paleo": false,
+  "Soy Free": false,
+  "Whole Grain": false,
+  "No Artificial Ingredients": false,
+  "Additive Free": false,
+  "Caffeine Free": false,
+  "Cage Free": false,
+  "Decaffeinated": false,
+  "Grass Fed": false,
+  "Free Range": false,
+  "RichContentSource": "Syndigo",
+  "ebt_SNAP": "Y",
+  "ebt_tax": "N",
+  "ebt_weighted": "N",
+  "ebt_bottleDepositAmount": 0.0,
+  "paracetamol_restricted": false,
+  "customer_item_code": "93933",
+  "Non GMO": false,
+  "Heart Health": false,
+  "dietary": [
+   "Kosher"
+  ],
+  "Warnings": "Contains eggs.",
+  "additional_filters": [
+   "SNAP EBT Eligible"
+  ],
+  "fair trade": true,
+  "case_pack": "15",
+  "StockStatus": "plenty"
+ },
+ "attributes_ext": {
+  "alcohol_restricted": {
+   "displayName": "Alcohol Restricted",
+   "value": false,
+   "identifier": "alcohol_restricted",
+   "type": "boolean"
+  },
+  "pickup_only": {
+   "displayName": "pickup_only",
+   "value": false,
+   "identifier": "pickup_only",
+   "type": "boolean"
+  },
+  "bmsm": {
+   "displayName": "bmsm",
+   "value": false,
+   "identifier": "bmsm",
+   "type": "boolean"
+  },
+  "our_brands": {
+   "displayName": "our_brands",
+   "value": false,
+   "identifier": "our_brands",
+   "type": "boolean"
+  },
+  "club_sized": {
+   "displayName": "club_sized",
+   "value": false,
+   "identifier": "club_sized",
+   "type": "boolean"
+  },
+  "instore_only": {
+   "displayName": "instore_only",
+   "value": false,
+   "identifier": "instore_only",
+   "type": "boolean"
+  },
+  "LastUpdatedUser": {
+   "displayName": "LastUpdatedUser",
+   "value": "MDMoverridesAdd",
+   "identifier": "LastUpdatedUser",
+   "type": "string"
+  },
+  "LastUpdateTime": {
+   "displayName": "LastUpdateTime",
+   "value": "2026-09-08T01:35:54.965+00:00",
+   "identifier": "LastUpdateTime",
+   "type": "string"
+  },
+  "kosher": {
+   "displayName": "Kosher",
+   "value": true,
+   "identifier": "kosher",
+   "type": "boolean"
+  },
+  "Fat Free": {
+   "displayName": "Fat Free",
+   "value": false,
+   "identifier": "Fat Free",
+   "type": "boolean"
+  },
+  "SYNDIGO_last_modified_date": {
+   "displayName": "SYNDIGO_last_modified_date",
+   "value": "2025-04-16T20:14:05.7656906Z",
+   "identifier": "SYNDIGO_last_modified_date",
+   "type": "string"
+  },
+  "organic": {
+   "displayName": "organic",
+   "value": false,
+   "identifier": "organic",
+   "type": "boolean"
+  },
+  "gluten free": {
+   "displayName": "gluten free",
+   "value": false,
+   "identifier": "gluten free",
+   "type": "boolean"
+  },
+  "Low Sodium": {
+   "displayName": "Low Sodium",
+   "value": false,
+   "identifier": "Low Sodium",
+   "type": "boolean"
+  },
+  "Dairy Free": {
+   "displayName": "Dairy Free",
+   "value": false,
+   "identifier": "Dairy Free",
+   "type": "boolean"
+  },
+  "Halal": {
+   "displayName": "Halal",
+   "value": false,
+   "identifier": "Halal",
+   "type": "boolean"
+  },
+  "No Added Sugar": {
+   "displayName": "No Added Sugar",
+   "value": false,
+   "identifier": "No Added Sugar",
+   "type": "boolean"
+  },
+  "Vegan": {
+   "displayName": "Vegan",
+   "value": false,
+   "identifier": "Vegan",
+   "type": "boolean"
+  },
+  "Egg Free": {
+   "displayName": "Egg Free",
+   "value": false,
+   "identifier": "Egg Free",
+   "type": "boolean"
+  },
+  "Lactose Free": {
+   "displayName": "Lactose Free",
+   "value": false,
+   "identifier": "Lactose Free",
+   "type": "boolean"
+  },
+  "Peanut Free": {
+   "displayName": "Peanut Free",
+   "value": false,
+   "identifier": "Peanut Free",
+   "type": "boolean"
+  },
+  "Keto Friendly": {
+   "displayName": "Keto Friendly",
+   "value": false,
+   "identifier": "Keto Friendly",
+   "type": "boolean"
+  },
+  "No High Fructose Corn Syrup": {
+   "displayName": "No High Fructose Corn Syrup",
+   "value": false,
+   "identifier": "No High Fructose Corn Syrup",
+   "type": "boolean"
+  },
+  "Low FODMAP": {
+   "displayName": "Low FODMAP",
+   "value": false,
+   "identifier": "Low FODMAP",
+   "type": "boolean"
+  },
+  "Paleo": {
+   "displayName": "Paleo",
+   "value": false,
+   "identifier": "Paleo",
+   "type": "boolean"
+  },
+  "Soy Free": {
+   "displayName": "Soy Free",
+   "value": false,
+   "identifier": "Soy Free",
+   "type": "boolean"
+  },
+  "Whole Grain": {
+   "displayName": "Whole Grain",
+   "value": false,
+   "identifier": "Whole Grain",
+   "type": "boolean"
+  },
+  "No Artificial Ingredients": {
+   "displayName": "No Artificial Ingredients",
+   "value": false,
+   "identifier": "No Artificial Ingredients",
+   "type": "boolean"
+  },
+  "Additive Free": {
+   "displayName": "Additive Free",
+   "value": false,
+   "identifier": "Additive Free",
+   "type": "boolean"
+  },
+  "Caffeine Free": {
+   "displayName": "Caffeine Free",
+   "value": false,
+   "identifier": "Caffeine Free",
+   "type": "boolean"
+  },
+  "Cage Free": {
+   "displayName": "Cage Free",
+   "value": false,
+   "identifier": "Cage Free",
+   "type": "boolean"
+  },
+  "Decaffeinated": {
+   "displayName": "Decaffeinated",
+   "value": false,
+   "identifier": "Decaffeinated",
+   "type": "boolean"
+  },
+  "Grass Fed": {
+   "displayName": "Grass Fed",
+   "value": false,
+   "identifier": "Grass Fed",
+   "type": "boolean"
+  },
+  "Free Range": {
+   "displayName": "Free Range",
+   "value": false,
+   "identifier": "Free Range",
+   "type": "boolean"
+  },
+  "RichContentSource": {
+   "displayName": "RichContentSource",
+   "value": "Syndigo",
+   "identifier": "RichContentSource",
+   "type": "string"
+  },
+  "ebt_SNAP": {
+   "displayName": "Aurus SNAP Flag",
+   "value": "Y",
+   "identifier": "ebt_SNAP",
+   "type": "string"
+  },
+  "ebt_tax": {
+   "displayName": "SNAP Tax Flag",
+   "value": "N",
+   "identifier": "ebt_tax",
+   "type": "string"
+  },
+  "ebt_weighted": {
+   "displayName": "SNAP weighted Flag",
+   "value": "N",
+   "identifier": "ebt_weighted",
+   "type": "string"
+  },
+  "ebt_bottleDepositAmount": {
+   "displayName": "SNAP Bottle Deposit Flag",
+   "value": 0.0,
+   "identifier": "ebt_bottleDepositAmount",
+   "type": "number"
+  },
+  "paracetamol_restricted": {
+   "displayName": "paracetamol_restricted",
+   "value": false,
+   "identifier": "paracetamol_restricted",
+   "type": "boolean"
+  },
+  "customer_item_code": {
+   "displayName": "customer_item_code",
+   "value": "93933",
+   "identifier": "customer_item_code",
+   "type": "string"
+  },
+  "Non GMO": {
+   "displayName": "Non GMO",
+   "value": false,
+   "identifier": "Non GMO",
+   "type": "boolean"
+  },
+  "Heart Health": {
+   "displayName": "Heart Health",
+   "value": false,
+   "identifier": "Heart Health",
+   "type": "boolean"
+  },
+  "dietary": {
+   "displayName": "dietary",
+   "value": [
+    "Kosher"
+   ],
+   "identifier": "dietary",
+   "type": "array"
+  },
+  "Warnings": {
+   "displayName": "Warnings",
+   "value": "Contains eggs.",
+   "identifier": "Warnings",
+   "type": "string"
+  },
+  "additional_filters": {
+   "displayName": "Additional Filters",
+   "value": [
+    "SNAP EBT Eligible"
+   ],
+   "identifier": "additional_filters",
+   "type": "array"
+  },
+  "fair trade": {
+   "displayName": "Fair Trade",
+   "value": true,
+   "identifier": "fair trade",
+   "type": "boolean"
+  },
+  "case_pack": {
+   "displayName": "case_pack",
+   "value": "15",
+   "identifier": "case_pack",
+   "type": "string"
+  },
+  "StockStatus": {
+   "displayName": "Stock Status",
+   "value": "plenty",
+   "identifier": "StockStatus",
+   "type": "string"
+  }
+ },
+ "unitOfMeasure": {
+  "abbreviation": "",
+  "type": "each",
+  "label": "Each",
+  "size": 1.0
+ },
+ "unitOfPrice": {
+  "abbreviation": "",
+  "type": "each",
+  "label": "Each",
+  "size": 1.0
+ },
+ "shoppingRuleMessages": null,
+ "available": true,
+ "isConfigurable": false,
+ "options": [],
+ "taxDetails": [],
+ "productLocation": {
+  "aisle": null,
+  "shelf": null,
+  "location": null,
+  "label": "Back Perimeter Wall",
+  "externalLocationUrl": null
+ },
+ "priceSource": "regular"
+}

@@ -1,0 +1,33 @@
+{
+ "storeId": 10151,
+ "token": "som",
+ "displayName": "SoMa",
+ "status": "Open",
+ "phone": "4156180066",
+ "storePrimeEligibility": true,
+ "storeOperationalGuidance": null,
+ "bu": 10151,
+ "folder": "som",
+ "openedAt": "2019-10-22",
+ "links": {
+  "Details": "/stores/som",
+  "Directions": "https://www.google.com/maps/dir/?api=1&destination=37.781321,-122.39964",
+  "Sales": "/sales-flyer?store-id=10151",
+  "PrimeNowPickUpAndDelivery": "https://www.wholefoods.com/grocery?ref_=US_TRF_ALL_UFG_WFM_REFER_0417726"
+ },
+ "primaryLocation": {
+  "address": {
+   "STREET_ADDRESS_LINE1": "399 4th St",
+   "CITY": "San Francisco",
+   "STATE": "CA",
+   "POSTAL_CODE": "94107-1236",
+   "ZIP_CODE": "94107-1236",
+   "COUNTRY": "United States of America"
+  },
+  "latitude": 37.781321,
+  "longitude": -122.39964
+ },
+ "operationalHoursJson": "[]",
+ "timezone": "America/Los_Angeles",
+ "holidays": null
+}

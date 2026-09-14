@@ -1,0 +1,216 @@
+{
+ "results": [
+  {
+   "regularPrice": 8.99,
+   "name": "Paella Rice, 35 OZ",
+   "slug": "matiz-paella-rice-35-oz-b001hnu87o",
+   "brand": "Matiz",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41tT6bFZYJL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 10.99,
+   "name": "Sushi Rice, 80 OZ",
+   "slug": "nishiki-sushi-rice-80-oz-b00852zn2u",
+   "brand": "NISHIKI",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41yYrlD6cJL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 6.99,
+   "salePrice": 5.19,
+   "incrementalSalePrice": 4.67,
+   "saleStartDate": "2026-09-02T00:00:00Z",
+   "saleEndDate": "2026-09-22T23:59:59Z",
+   "name": "Arborio Rice, 32 OZ",
+   "slug": "riceselect-arborio-rice-32-oz-b0126unn9q",
+   "brand": "Riceselect",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41ySjuTbD2L.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 9.99,
+   "name": "Calrose Rice, 80 OZ",
+   "slug": "botan-calrose-calrose-rice-80-oz-b00n9bwfve",
+   "brand": "Botan Calrose",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41oIoXZ80ZL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 6.29,
+   "name": "Organic Superfood Rice, 15 OZ",
+   "slug": "jasberry-organic-superfood-rice-15-oz-b0bj5js4pf",
+   "brand": "Jasberry",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41hTTOPBfdL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 9.99,
+   "salePrice": 8.49,
+   "incrementalSalePrice": 7.64,
+   "saleStartDate": "2026-09-02T00:00:00Z",
+   "saleEndDate": "2026-09-22T23:59:59Z",
+   "name": "Organic Arborio Rice, 17.6 OZ",
+   "slug": "seggiano-organic-arborio-rice-176-oz-b0bjr4rn2p",
+   "brand": "Seggiano",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/411LsPsQieL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 9.39,
+   "salePrice": 6.98,
+   "incrementalSalePrice": 6.28,
+   "saleStartDate": "2026-09-02T00:00:00Z",
+   "saleEndDate": "2026-09-22T23:59:59Z",
+   "name": "Organic Jasmati Rice, 32 OZ",
+   "slug": "riceselect-organic-jasmati-rice-32-oz-b00idqy7wk",
+   "brand": "Riceselect",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41ERTRnm8AL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 9.99,
+   "name": "Organic Purple Rice, 32 OZ",
+   "slug": "oceans-halo-organic-purple-rice-32-oz-b0bj5pt5zy",
+   "brand": "Oceans Halo",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41Vejj5b1dL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 4.49,
+   "salePrice": 3.59,
+   "incrementalSalePrice": 3.23,
+   "saleStartDate": "2026-09-02T00:00:00Z",
+   "saleEndDate": "2026-09-22T23:59:59Z",
+   "name": "Purple Rice, 16 OZ",
+   "slug": "ralston-family-farms-purple-rice-16-oz-b07z6s9pp8",
+   "brand": "Ralston Family Farms",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41ueH4qC-3L.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 9.99,
+   "salePrice": 8.49,
+   "incrementalSalePrice": 7.64,
+   "saleStartDate": "2026-09-02T00:00:00Z",
+   "saleEndDate": "2026-09-22T23:59:59Z",
+   "name": "Organic Black Nerone Rice, 17.6 OZ",
+   "slug": "seggiano-organic-black-nerone-rice-176-oz-b0bjr4lt5l",
+   "brand": "Seggiano",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41KnW4it9AL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 5.99,
+   "name": "Wild Rice Blend, 16 OZ",
+   "slug": "lundberg-family-farms-wild-rice-blend-16-oz-b000rahrw2",
+   "brand": "Lundberg Family Farms",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/411mZ6qNiVL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 5.79,
+   "name": "Wild Rice, 14 OZ",
+   "slug": "365-by-whole-foods-market-wild-rice-14-oz-b084nj5jdx",
+   "brand": "365 by Whole Foods Market",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41dJvttrsPL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 4.19,
+   "name": "Caramel Rice Cakes, 6.56 OZ",
+   "slug": "quaker-caramel-rice-cakes-656-oz-b00h3swyjm",
+   "brand": "Quaker",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/416RtxhkrUL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 7.49,
+   "name": "White Jasmine Rice, 32 OZ",
+   "slug": "lundberg-family-farms-white-jasmine-rice-32-oz-b000vhjg3e",
+   "brand": "Lundberg Family Farms",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41ulL7n71ZL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 4.19,
+   "name": "Chocolate Rice Cakes, 7.23 OZ",
+   "slug": "quaker-chocolate-rice-cakes-723-oz-b000v9mzki",
+   "brand": "Quaker",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41ZsaOQjDfL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 4.29,
+   "name": "Organic Brown Short Grain Rice",
+   "slug": "lundberg-family-farms-organic-brown-short-grain-rice-b07d9pmsq1",
+   "brand": "Lundberg Family Farms",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41VFBEkwG3L.jpg",
+   "store": 10145,
+   "isLocal": false,
+   "uom": "lb"
+  },
+  {
+   "regularPrice": 9.29,
+   "name": "Organic Brown Basmati Rice, 30 OZ",
+   "slug": "lotus-foods-organic-brown-basmati-rice-30-oz-b07fy2bgx4",
+   "brand": "Lotus Foods",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/51sF95dLQlL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 11.29,
+   "name": "Organic Wild Rice, 8 OZ",
+   "slug": "lundberg-family-farms-organic-wild-rice-8-oz-b006r1sqmk",
+   "brand": "Lundberg Family Farms",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41NG8-dyjjL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 5.79,
+   "name": "Organic Black Forbidden Rice, 15 OZ",
+   "slug": "lotus-foods-organic-black-forbidden-rice-15-oz-b01mz6myt0",
+   "brand": "Lotus Foods",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/51QFxmRzPKL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 9.29,
+   "name": "Organic White Basmati Rice, 30 OZ",
+   "slug": "lotus-foods-organic-white-basmati-rice-30-oz-b07815kzrt",
+   "brand": "Lotus Foods",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41vN7-HGw8L.jpg",
+   "store": 10145,
+   "isLocal": false
+  }
+ ],
+ "meta": {
+  "total": {
+   "value": 393,
+   "relation": "EQUAL_TO"
+  },
+  "state": {
+   "searchText": "rice",
+   "sort": "relevance"
+  }
+ },
+ "facets": []
+}

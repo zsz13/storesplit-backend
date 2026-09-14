@@ -1,0 +1,1 @@
+"""Safeway (Albertsons) adapter."""

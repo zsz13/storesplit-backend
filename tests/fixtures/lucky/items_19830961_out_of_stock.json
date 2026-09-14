@@ -1,0 +1,102 @@
+{
+  "data": {
+    "items": [
+      {
+        "id": "items_34692-19830961",
+        "productId": "19830961",
+        "name": "Chicken Breast, Boneless, Skinless",
+        "size": "3.5 lb",
+        "brandName": null,
+        "evergreenUrl": "19830961-boneless-skinless-master-cut-chicken-breast-3-5-lb",
+        "productCanonicalUrl": {
+          "id": "0f9d1ee3",
+          "canonicalUrl": null,
+          "__typename": "LandingProductCanonicalUrl"
+        },
+        "quantityAttributes": {
+          "increment": 1.0,
+          "initial": 1.0,
+          "max": 500.0,
+          "min": 1.0,
+          "quantityType": "each",
+          "selectOptions": [
+            1.0,
+            2.0,
+            3.0,
+            4.0,
+            5.0,
+            6.0,
+            7.0,
+            8.0,
+            9.0
+          ],
+          "defaultSelectOption": 1.0,
+          "parWeight": {
+            "quantity": 1.5,
+            "measurementUnit": {
+              "unitCode": "[lb_av]",
+              "costUnit": "lb",
+              "__typename": "SharedMeasurementUnit"
+            },
+            "__typename": "SharedMeasuredQuantity"
+          },
+          "viewSection": {
+            "maxedOutString": "Max 500 per order",
+            "minReachedString": null,
+            "unitAriaString": "item",
+            "unitPluralAriaString": "items",
+            "unitPluralString": "ct",
+            "unitString": "ct",
+            "iconUnitTypeVisibilityVariant": "hide",
+            "variableWeightDisclaimerString": "Final cost by weight",
+            "variableWeightDisclaimerLongString": "Final cost by weight",
+            "totalWeightEstimateTemplateString": "About %1 lb",
+            "totalWeightEstimateTemplatePluralString": "About %1 lbs",
+            "parWeightDisplayString": "About 1.5 lb each",
+            "quantityUnitVisibilityVariant": "show",
+            "stepperUnitTypeVisibilityVariant": "show",
+            "soldByUnitString": null,
+            "__typename": "ItemsResponseBackedQuantityAttributesSection"
+          },
+          "__typename": "ItemsQuantityAttributes"
+        },
+        "availability": {
+          "available": false,
+          "stockLevel": "inStock",
+          "isUpcomingProduct": false,
+          "isItemAvailabilityLifecycleEnabled": false,
+          "blackoutTimes": null,
+          "viewSection": {
+            "stockLevelLabelString": "Out of stock",
+            "stockLevelIconIcon": null,
+            "replacementsStockLevelLabelString": null,
+            "replacementsStockLevelIconIcon": null,
+            "outOfStockCtaString": "Show similar",
+            "upcomingProductAvailableFromString": null,
+            "similarItemsActionVariant": "similarItemsModal",
+            "warningIconImage": null,
+            "__typename": "AvailabilityResponseBackedAvailabilitySection"
+          },
+          "__typename": "ItemsAvailability"
+        },
+        "price": {
+          "viewSection": {
+            "priceString": "$10.18",
+            "fullPriceString": null,
+            "badge": null
+          }
+        },
+        "viewSection": {
+          "itemImage": {
+            "altText": null,
+            "templateUrl": "https://www.instacart.com/image-server/{width=}x{height=}/filters:fill(FFFFFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_ec115d44-d40f-4e7f-a7d2-0243fac5bb1e.jpg",
+            "url": "https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_ec115d44-d40f-4e7f-a7d2-0243fac5bb1e.jpg",
+            "__typename": "Image"
+          },
+          "lowStockVariant": "none",
+          "retailerLookupCodeString": null
+        }
+      }
+    ]
+  }
+}

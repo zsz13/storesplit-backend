@@ -1,0 +1,193 @@
+{
+ "pickup_locations": [
+  {
+   "id": "34737",
+   "name": "Lucky Supermarkets - 714",
+   "location_code": "714",
+   "short_address": "5000 Mowry Ave, Fremont",
+   "distance_from_location": "2.61 miles away",
+   "address": {
+    "id": "90351301",
+    "attributes": [
+     "available"
+    ],
+    "business_name": null,
+    "address_line_1": "5000 Mowry Ave",
+    "address_line_2": null,
+    "zip_code": "94538",
+    "address_type": "Business",
+    "note": null,
+    "city": "Fremont",
+    "state": "CA",
+    "lat": 37.53469,
+    "lon": -121.997896,
+    "structured_address": [
+     "5000 Mowry Ave",
+     "Fremont, CA 94538"
+    ],
+    "location": "5000 Mowry Ave Fremont, CA 94538",
+    "delivery_instruction": null
+   },
+   "warehouse": {
+    "id": "542",
+    "name": "Lucky Supermarkets",
+    "slug": "lucky-supermarkets",
+    "logo": {
+     "url": "https://d2lnr5mha7bycj.cloudfront.net/warehouse/logo/542/148c7df1-10ae-44a2-9c32-f12791551589.png",
+     "alt": "Lucky Supermarkets",
+     "responsive": {
+      "template": "https://www.instacart.com/image-server/{width}x/d2lnr5mha7bycj.cloudfront.net/warehouse/logo/542/148c7df1-10ae-44a2-9c32-f12791551589.png",
+      "defaults": {
+       "width": 96
+      }
+     },
+     "sizes": []
+    },
+    "background_color": "#ffffff"
+   },
+   "select_warehouse_location": {
+    "type": "update_bundle",
+    "data": {
+     "params": {
+      "warehouse_location_id": "34737",
+      "current_retailer_id": "542"
+     },
+     "tracking_params": {},
+     "tracking_event_names": {},
+     "title": null
+    }
+   },
+   "badge": null,
+   "tracking_params": {
+    "warehouse_location_id": 34737,
+    "source2": 1
+   }
+  },
+  {
+   "id": "34693",
+   "name": "Lucky Supermarkets - 713",
+   "location_code": "713",
+   "short_address": "35820 Fremont Blvd, Fremont",
+   "distance_from_location": "5.26 miles away",
+   "address": {
+    "id": "90336003",
+    "attributes": [
+     "available"
+    ],
+    "business_name": null,
+    "address_line_1": "35820 Fremont Blvd",
+    "address_line_2": null,
+    "zip_code": "94536",
+    "address_type": "Business",
+    "note": null,
+    "city": "Fremont",
+    "state": "CA",
+    "lat": 37.5675554,
+    "lon": -122.0232513,
+    "structured_address": [
+     "35820 Fremont Blvd",
+     "Fremont, CA 94536"
+    ],
+    "location": "35820 Fremont Blvd Fremont, CA 94536",
+    "delivery_instruction": null
+   },
+   "warehouse": {
+    "id": "542",
+    "name": "Lucky Supermarkets",
+    "slug": "lucky-supermarkets",
+    "logo": {
+     "url": "https://d2lnr5mha7bycj.cloudfront.net/warehouse/logo/542/148c7df1-10ae-44a2-9c32-f12791551589.png",
+     "alt": "Lucky Supermarkets",
+     "responsive": {
+      "template": "https://www.instacart.com/image-server/{width}x/d2lnr5mha7bycj.cloudfront.net/warehouse/logo/542/148c7df1-10ae-44a2-9c32-f12791551589.png",
+      "defaults": {
+       "width": 96
+      }
+     },
+     "sizes": []
+    },
+    "background_color": "#ffffff"
+   },
+   "select_warehouse_location": {
+    "type": "update_bundle",
+    "data": {
+     "params": {
+      "warehouse_location_id": "34693",
+      "current_retailer_id": "542"
+     },
+     "tracking_params": {},
+     "tracking_event_names": {},
+     "title": null
+    }
+   },
+   "badge": null,
+   "tracking_params": {
+    "warehouse_location_id": 34693,
+    "source2": 2
+   }
+  },
+  {
+   "id": "31537",
+   "name": "Lucky Supermarkets - 780",
+   "location_code": "780",
+   "short_address": "484 N. Mathilda Ave, Sunnyvale",
+   "distance_from_location": "8.21 miles away",
+   "address": {
+    "id": "89386416",
+    "attributes": [
+     "available"
+    ],
+    "business_name": null,
+    "address_line_1": "484 N. Mathilda Ave",
+    "address_line_2": null,
+    "zip_code": "94085",
+    "address_type": "Business",
+    "note": null,
+    "city": "Sunnyvale",
+    "state": "CA",
+    "lat": 37.3885039,
+    "lon": -122.0295182,
+    "structured_address": [
+     "484 N. Mathilda Ave",
+     "Sunnyvale, CA 94085"
+    ],
+    "location": "484 N. Mathilda Ave Sunnyvale, CA 94085",
+    "delivery_instruction": null
+   },
+   "warehouse": {
+    "id": "542",
+    "name": "Lucky Supermarkets",
+    "slug": "lucky-supermarkets",
+    "logo": {
+     "url": "https://d2lnr5mha7bycj.cloudfront.net/warehouse/logo/542/148c7df1-10ae-44a2-9c32-f12791551589.png",
+     "alt": "Lucky Supermarkets",
+     "responsive": {
+      "template": "https://www.instacart.com/image-server/{width}x/d2lnr5mha7bycj.cloudfront.net/warehouse/logo/542/148c7df1-10ae-44a2-9c32-f12791551589.png",
+      "defaults": {
+       "width": 96
+      }
+     },
+     "sizes": []
+    },
+    "background_color": "#ffffff"
+   },
+   "select_warehouse_location": {
+    "type": "update_bundle",
+    "data": {
+     "params": {
+      "warehouse_location_id": "31537",
+      "current_retailer_id": "542"
+     },
+     "tracking_params": {},
+     "tracking_event_names": {},
+     "title": null
+    }
+   },
+   "badge": null,
+   "tracking_params": {
+    "warehouse_location_id": 31537,
+    "source2": 3
+   }
+  }
+ ]
+}

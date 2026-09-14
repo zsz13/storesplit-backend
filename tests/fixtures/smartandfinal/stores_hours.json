@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "retailerStoreId": "304",
+      "name": "304 - Glendale - Verdugo Rd",
+      "status": "Active",
+      "addressLine1": "210 N.VERDUGO ROAD",
+      "city": "GLENDALE",
+      "countyProvinceState": "CA",
+      "postCode": "91206",
+      "location": {
+        "latitude": 34.148533,
+        "longitude": -118.235522
+      },
+      "timeZone": "America/Los_Angeles",
+      "openingHours": "Sunday-Saturday: 6 AM - 10 PM",
+      "phone": "(818) 243-4239"
+    },
+    {
+      "retailerStoreId": "369",
+      "name": "369 - Carson",
+      "status": "Active",
+      "addressLine1": "20410 SUSANA ROAD",
+      "city": "CARSON",
+      "countyProvinceState": "CA",
+      "postCode": "90810",
+      "location": {
+        "latitude": 33.846459,
+        "longitude": -118.206621
+      },
+      "timeZone": "America/Los_Angeles",
+      "openingHours": "Sunday-Saturday: 7 AM - 9 PM",
+      "phone": "(310) 762-2536"
+    },
+    {
+      "retailerStoreId": "442",
+      "name": "442 - Las Vegas - W. Craig Rd",
+      "status": "Active",
+      "addressLine1": "365 W. CRAIG ROAD",
+      "city": "NORTH LAS VEGAS",
+      "countyProvinceState": "NV",
+      "postCode": "89032",
+      "location": {
+        "latitude": 36.239251,
+        "longitude": -115.148712
+      },
+      "timeZone": "America/Los_Angeles",
+      "openingHours": "Sunday-Saturday: 6 AM - 9 PM",
+      "phone": "(702) 633-6064"
+    },
+    {
+      "retailerStoreId": "833",
+      "name": "833 - San Diego - Rosecrans",
+      "status": "Active",
+      "addressLine1": "3705 ROSECRANS ST",
+      "city": "SAN DIEGO",
+      "countyProvinceState": "CA",
+      "postCode": "92110",
+      "location": {
+        "latitude": 32.751130462240056,
+        "longitude": -117.20359023417298
+      },
+      "timeZone": "America/Los_Angeles",
+      "openingHours": "Sunday-Saturday: 7 AM - 10 PM",
+      "phone": "(619) 344-2179"
+    }
+  ]
+}

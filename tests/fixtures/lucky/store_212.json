@@ -1,0 +1,35 @@
+{
+ "storeDetailsV2": {
+  "storeId": "212",
+  "displayName": "CONTRA LOMA",
+  "location": {
+   "latitude": 37.990603,
+   "longitude": -121.826155,
+   "address1": "3190 CONTRA LOMA BLVD",
+   "city": "ANTIOCH",
+   "state": "CA",
+   "country": "US",
+   "timezone": "America/Los_Angeles",
+   "postalCode": "94509"
+  },
+  "phoneNumbers": [
+   {
+    "value": "19257548824",
+    "description": "Main"
+   }
+  ],
+  "hours": {
+   "weekly": [],
+   "special": []
+  },
+  "amenities": [],
+  "waysToShop": [
+   "IN_STORE"
+  ],
+  "darkStore": false,
+  "departments": [],
+  "payments": [],
+  "webLinks": [],
+  "languages": []
+ }
+}

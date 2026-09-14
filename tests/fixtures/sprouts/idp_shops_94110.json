@@ -1,0 +1,94 @@
+{
+ "shops": [
+  {
+   "id": "357771",
+   "name": "Sprouts Farmers Market",
+   "retailer_key": "sprouts",
+   "phone_number": "415-325-1091",
+   "fulfillment_option": "instore",
+   "address": {
+    "street_address": "301 Gellert Blvd",
+    "city": "Daly City",
+    "state": "CA",
+    "postal_code": "94015",
+    "country_code": "US"
+   },
+   "retailer_logo_url": "https://www.instacart.com/assets/domains/warehouse/logo/279/d32b62ca-80e7-416f-8f2a-9068b68393c5.webp",
+   "background_color_hex": "#1e6f30",
+   "location_name": "Daly City (Store #276)",
+   "location_code": "276"
+  },
+  {
+   "id": "6",
+   "name": "Sprouts Farmers Market",
+   "retailer_key": "sprouts",
+   "phone_number": "415-325-1091",
+   "fulfillment_option": "delivery",
+   "address": {
+    "street_address": "301 Gellert Blvd",
+    "city": "Daly City",
+    "state": "CA",
+    "postal_code": "94015",
+    "country_code": "US"
+   },
+   "retailer_logo_url": "https://www.instacart.com/assets/domains/warehouse/logo/279/d32b62ca-80e7-416f-8f2a-9068b68393c5.webp",
+   "background_color_hex": "#1e6f30",
+   "location_name": "Daly City (Store #276)",
+   "location_code": "276"
+  },
+  {
+   "id": "601",
+   "name": "Sprouts Farmers Market",
+   "retailer_key": "sprouts",
+   "phone_number": "415-325-1091",
+   "fulfillment_option": "pickup",
+   "address": {
+    "street_address": "301 Gellert Blvd",
+    "city": "Daly City",
+    "state": "CA",
+    "postal_code": "94015",
+    "country_code": "US"
+   },
+   "retailer_logo_url": "https://www.instacart.com/assets/domains/warehouse/logo/279/d32b62ca-80e7-416f-8f2a-9068b68393c5.webp",
+   "background_color_hex": "#1e6f30",
+   "location_name": "Daly City (Store #276)",
+   "location_code": "276"
+  },
+  {
+   "id": "219",
+   "name": "Sprouts Farmers Market",
+   "retailer_key": "sprouts",
+   "phone_number": "510-851-7688",
+   "fulfillment_option": "pickup",
+   "address": {
+    "street_address": "3035 Broadway",
+    "city": "Oakland",
+    "state": "CA",
+    "postal_code": "94611",
+    "country_code": "US"
+   },
+   "retailer_logo_url": "https://www.instacart.com/assets/domains/warehouse/logo/279/d32b62ca-80e7-416f-8f2a-9068b68393c5.webp",
+   "background_color_hex": "#1e6f30",
+   "location_name": "Oakland (Store #279)",
+   "location_code": "279"
+  },
+  {
+   "id": "28",
+   "name": "Sprouts Farmers Market",
+   "retailer_key": "sprouts",
+   "phone_number": "510-345-0461",
+   "fulfillment_option": "pickup",
+   "address": {
+    "street_address": "1075 Monroe St",
+    "city": "Albany",
+    "state": "CA",
+    "postal_code": "94706",
+    "country_code": "US"
+   },
+   "retailer_logo_url": "https://www.instacart.com/assets/domains/warehouse/logo/279/d32b62ca-80e7-416f-8f2a-9068b68393c5.webp",
+   "background_color_hex": "#1e6f30",
+   "location_name": "Albany (Store #284)",
+   "location_code": "284"
+  }
+ ]
+}

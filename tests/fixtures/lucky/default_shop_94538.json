@@ -1,0 +1,72 @@
+{
+ "data": {
+  "defaultShop": {
+   "id": "24854",
+   "retailer": {
+    "id": "542",
+    "categories": [
+     "grocery",
+     "readymeals",
+     "gifts"
+    ],
+    "homeCategories": [
+     "grocery"
+    ],
+    "slug": "lucky-supermarkets",
+    "name": "Lucky Supermarkets",
+    "retailerType": "Grocery - Traditional",
+    "backgroundColorHex": "#ffffff",
+    "refreshHeaderBackgroundColorHex": "#FFFFFF",
+    "logoBackgroundColorHex": "#ffffff",
+    "viewSection": {
+     "id": "retailers_response_backed:ca7367e9:retailer:542",
+     "nameString": "Lucky Supermarkets",
+     "retailerCardCategories": [],
+     "logoImage": {
+      "id": "b0e00511",
+      "altText": "Lucky Supermarkets logo",
+      "templateUrl": "https://www.instacart.com/image-server/{width=}x{height=}/www.instacart.com/assets/domains/warehouse/logo/542/148c7df1-10ae-44a2-9c32-f12791551589.png",
+      "url": "https://www.instacart.com/assets/domains/warehouse/logo/542/148c7df1-10ae-44a2-9c32-f12791551589.png",
+      "__typename": "Image"
+     },
+     "trackingProperties": {
+      "element_details": {
+       "element_type": "retailer",
+       "retailer_details": {
+        "retailer_id": "542",
+        "retailer_type": "Grocery - Traditional",
+        "retailer_name": "Lucky Supermarkets",
+        "retailer_slug": "lucky-supermarkets"
+       }
+      }
+     },
+     "externalUrlString": null,
+     "externalRedirectConfirmationHeaderString": null,
+     "externalRedirectConfirmationMessageString": null,
+     "__typename": "RetailersResponseBackedRetailerSection"
+    },
+    "__typename": "RetailersRetailer"
+   },
+   "retailerId": "542",
+   "retailerLocationId": "34737",
+   "fulfillmentProviderId": null,
+   "serviceType": "delivery",
+   "viewSection": {
+    "id": "retailers_response_backed:3ebe61d6:shop:24854",
+    "trackingProperties": {
+     "warehouse_id": "542",
+     "retailer_id": "542",
+     "warehouse_id_list": [
+      "542"
+     ],
+     "service_type": "delivery",
+     "retailer_location_id": "34737"
+    },
+    "deliveryString": "Delivery",
+    "pickupString": "",
+    "__typename": "RetailersResponseBackedShopSection"
+   },
+   "__typename": "RetailersShop"
+  }
+ }
+}

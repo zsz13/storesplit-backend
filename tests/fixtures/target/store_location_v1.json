@@ -1,0 +1,16 @@
+{
+ "data": {
+  "store": {
+   "store_id": "3264",
+   "location_name": "San Francisco Stonestown",
+   "mailing_address": {
+    "address_line1": "285 Winston Dr",
+    "city": "San Francisco",
+    "region": "CA",
+    "postal_code": "94132-1921",
+    "latitude": null,
+    "longitude": null
+   }
+  }
+ }
+}

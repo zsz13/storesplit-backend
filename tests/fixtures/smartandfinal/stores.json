@@ -1,0 +1,264 @@
+{
+ "total": 7,
+ "items": [
+  {
+   "id": "06a1bb3d-64e7-4811-b9d6-2b3c85ed80af",
+   "status": "Active",
+   "type": "Regular",
+   "name": "304 - Glendale - Verdugo Rd",
+   "addressLine1": "210 N.VERDUGO ROAD",
+   "addressLine2": "",
+   "addressLine3": "",
+   "countyProvinceState": "CA",
+   "postCode": "91206",
+   "city": "GLENDALE",
+   "country": "United States",
+   "email": "",
+   "phone": "(818) 243-4239",
+   "retailerStoreId": "304",
+   "timeZone": "America/Los_Angeles",
+   "currency": "USD",
+   "openingHours": "Sunday-Saturday: 6 AM - 10 PM",
+   "location": {
+    "latitude": 34.148533,
+    "longitude": -118.235522
+   },
+   "languages": [
+    {
+     "isoCode": "en-US",
+     "isDefault": true
+    }
+   ],
+   "siteId": "5797e4fe-f06a-4963-818c-84a859f260f3",
+   "urls": [],
+   "categoryHierarchyId": "b4eaf6fc-331d-44fa-b449-46ef9bb5b2c3",
+   "shoppingModes": [
+    "planning",
+    "pickup",
+    "delivery"
+   ]
+  },
+  {
+   "id": "60787946-0613-411a-b389-353c90fa2671",
+   "status": "Active",
+   "type": "Regular",
+   "name": "320 - Daly City",
+   "addressLine1": "6967 MISSION STREET",
+   "addressLine2": "",
+   "addressLine3": "",
+   "countyProvinceState": "CA",
+   "postCode": "94014",
+   "city": "DALY CITY",
+   "country": "United States",
+   "email": "",
+   "phone": "(650) 997-3151",
+   "retailerStoreId": "320",
+   "timeZone": "America/Los_Angeles",
+   "currency": "USD",
+   "openingHours": "Sunday-Saturday: 6 AM - 10 PM",
+   "location": {
+    "latitude": 37.696244,
+    "longitude": -122.464312
+   },
+   "languages": [
+    {
+     "isoCode": "en-US",
+     "isDefault": true
+    }
+   ],
+   "siteId": "5797e4fe-f06a-4963-818c-84a859f260f3",
+   "urls": [],
+   "categoryHierarchyId": "b4eaf6fc-331d-44fa-b449-46ef9bb5b2c3",
+   "shoppingModes": [
+    "planning",
+    "pickup",
+    "delivery"
+   ]
+  },
+  {
+   "id": "80085d3b-4d04-4da7-a820-d25036dd9dcc",
+   "status": "Active",
+   "type": "Regular",
+   "name": "351 - San Francisco - Seventh Ave",
+   "addressLine1": "350 SEVENTH AVENUE",
+   "addressLine2": "",
+   "addressLine3": "",
+   "countyProvinceState": "CA",
+   "postCode": "94118",
+   "city": "SAN FRANCISCO",
+   "country": "United States",
+   "email": "",
+   "phone": "(415) 751-9951",
+   "retailerStoreId": "351",
+   "timeZone": "America/Los_Angeles",
+   "currency": "USD",
+   "openingHours": "Sunday-Saturday: 6 AM - 10 PM",
+   "location": {
+    "latitude": 37.781951,
+    "longitude": -122.465248
+   },
+   "languages": [
+    {
+     "isoCode": "en-US",
+     "isDefault": true
+    }
+   ],
+   "siteId": "5797e4fe-f06a-4963-818c-84a859f260f3",
+   "urls": [],
+   "categoryHierarchyId": "b4eaf6fc-331d-44fa-b449-46ef9bb5b2c3",
+   "shoppingModes": [
+    "planning",
+    "pickup",
+    "delivery"
+   ]
+  },
+  {
+   "id": "a69319a1-560f-46b0-9cf9-8479f64796b1",
+   "status": "Active",
+   "type": "Regular",
+   "name": "441 - South San Francisco - Kenwood Way",
+   "addressLine1": "249 KENWOOD WAY",
+   "addressLine2": "",
+   "addressLine3": "",
+   "countyProvinceState": "CA",
+   "postCode": "94080",
+   "city": "SOUTH SAN FRANCISCO",
+   "country": "United States",
+   "email": "",
+   "phone": "(650) 737-0915",
+   "retailerStoreId": "441",
+   "timeZone": "America/Los_Angeles",
+   "currency": "USD",
+   "openingHours": "Sunday-Saturday: 6 AM - 10 PM",
+   "location": {
+    "latitude": 37.64189,
+    "longitude": -122.42573
+   },
+   "languages": [
+    {
+     "isoCode": "en-US",
+     "isDefault": true
+    }
+   ],
+   "siteId": "5797e4fe-f06a-4963-818c-84a859f260f3",
+   "urls": [],
+   "categoryHierarchyId": "b4eaf6fc-331d-44fa-b449-46ef9bb5b2c3",
+   "shoppingModes": [
+    "planning",
+    "pickup",
+    "delivery"
+   ]
+  },
+  {
+   "id": "366fc2c7-26dd-4fde-9349-21a749fe5e3a",
+   "status": "Active",
+   "type": "Regular",
+   "name": "445 - Oakland - 42nd Ave",
+   "addressLine1": "1243 42ND AVENUE",
+   "addressLine2": "",
+   "addressLine3": "",
+   "countyProvinceState": "CA",
+   "postCode": "94601",
+   "city": "OAKLAND",
+   "country": "United States",
+   "email": "",
+   "phone": "(510) 536-7494",
+   "retailerStoreId": "445",
+   "timeZone": "America/Los_Angeles",
+   "currency": "USD",
+   "openingHours": "Sunday-Saturday: 6 AM - 10 PM",
+   "location": {
+    "latitude": 37.772438,
+    "longitude": -122.217278
+   },
+   "languages": [
+    {
+     "isoCode": "en-US",
+     "isDefault": true
+    }
+   ],
+   "siteId": "5797e4fe-f06a-4963-818c-84a859f260f3",
+   "urls": [],
+   "categoryHierarchyId": "b4eaf6fc-331d-44fa-b449-46ef9bb5b2c3",
+   "shoppingModes": [
+    "planning",
+    "pickup",
+    "delivery"
+   ]
+  },
+  {
+   "id": "ea956f1c-8731-4975-b3c0-d1d507f45714",
+   "status": "Active",
+   "type": "Regular",
+   "name": "522 - Montebello",
+   "addressLine1": "855 N WILCOX AVENUE",
+   "addressLine2": "",
+   "addressLine3": "",
+   "countyProvinceState": "CA",
+   "postCode": "90640",
+   "city": "MONTEBELLO",
+   "country": "United States",
+   "email": "",
+   "phone": "(323) 888-4204",
+   "retailerStoreId": "522",
+   "timeZone": "America/Los_Angeles",
+   "currency": "USD",
+   "openingHours": "Sunday-Saturday: 6 AM - 10 PM",
+   "location": {
+    "latitude": 34.030612,
+    "longitude": -118.125209
+   },
+   "languages": [
+    {
+     "isoCode": "en-US",
+     "isDefault": true
+    }
+   ],
+   "siteId": "5797e4fe-f06a-4963-818c-84a859f260f3",
+   "urls": [],
+   "categoryHierarchyId": "b4eaf6fc-331d-44fa-b449-46ef9bb5b2c3",
+   "shoppingModes": [
+    "planning",
+    "pickup",
+    "delivery"
+   ]
+  },
+  {
+   "id": "06a1bb3d-64e7-4811-b9d6-2b3c85ed80af",
+   "status": "Closed",
+   "type": "Regular",
+   "name": "999 - Closed - Test",
+   "addressLine1": "210 N.VERDUGO ROAD",
+   "addressLine2": "",
+   "addressLine3": "",
+   "countyProvinceState": "CA",
+   "postCode": "91206",
+   "city": "GLENDALE",
+   "country": "United States",
+   "email": "",
+   "phone": "(818) 243-4239",
+   "retailerStoreId": "999",
+   "timeZone": "America/Los_Angeles",
+   "currency": "USD",
+   "openingHours": "Sunday-Saturday: 6 AM - 10 PM",
+   "location": {
+    "latitude": 34.148533,
+    "longitude": -118.235522
+   },
+   "languages": [
+    {
+     "isoCode": "en-US",
+     "isDefault": true
+    }
+   ],
+   "siteId": "5797e4fe-f06a-4963-818c-84a859f260f3",
+   "urls": [],
+   "categoryHierarchyId": "b4eaf6fc-331d-44fa-b449-46ef9bb5b2c3",
+   "shoppingModes": [
+    "planning",
+    "pickup",
+    "delivery"
+   ]
+  }
+ ]
+}

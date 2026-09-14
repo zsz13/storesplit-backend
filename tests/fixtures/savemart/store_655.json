@@ -1,0 +1,78 @@
+{
+ "storeDetailsV2": {
+  "storeId": "655",
+  "displayName": "WEST LODI",
+  "location": {
+   "latitude": 38.1290301,
+   "longitude": -121.2831542,
+   "address1": "530 WEST LODI AVE",
+   "city": "LODI",
+   "state": "CA",
+   "country": "US",
+   "timezone": "America/Los_Angeles",
+   "postalCode": "95240"
+  },
+  "phoneNumbers": [
+   {
+    "value": "+1 (209) 339-7170",
+    "description": "Main"
+   }
+  ],
+  "hours": {
+   "weekly": [
+    {
+     "day": "MONDAY",
+     "daily": {
+      "type": "OPEN_24_HOURS"
+     }
+    },
+    {
+     "day": "TUESDAY",
+     "daily": {
+      "type": "OPEN_24_HOURS"
+     }
+    },
+    {
+     "day": "WEDNESDAY",
+     "daily": {
+      "type": "OPEN_24_HOURS"
+     }
+    },
+    {
+     "day": "THURSDAY",
+     "daily": {
+      "type": "OPEN_24_HOURS"
+     }
+    },
+    {
+     "day": "FRIDAY",
+     "daily": {
+      "type": "OPEN_24_HOURS"
+     }
+    },
+    {
+     "day": "SATURDAY",
+     "daily": {
+      "type": "OPEN_24_HOURS"
+     }
+    },
+    {
+     "day": "SUNDAY",
+     "daily": {
+      "type": "OPEN_24_HOURS"
+     }
+    }
+   ],
+   "special": []
+  },
+  "amenities": [],
+  "waysToShop": [
+   "IN_STORE"
+  ],
+  "darkStore": false,
+  "departments": [],
+  "payments": [],
+  "webLinks": [],
+  "languages": []
+ }
+}

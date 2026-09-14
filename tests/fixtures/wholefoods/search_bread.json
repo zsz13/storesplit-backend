@@ -1,0 +1,211 @@
+{
+ "results": [
+  {
+   "regularPrice": 10.49,
+   "name": "Seeded Bread, 19.5 OZ",
+   "slug": "hero-bread-seeded-bread-195-oz-b0bh5c4zw1",
+   "brand": "Hero Bread",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41PQ-zt0xeL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 2.19,
+   "name": "French Bread Loaf, 20 OZ",
+   "slug": "slow-dough-french-bread-loaf-20-oz-b07gl36f7t",
+   "brand": "SLOW DOUGH",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/312ly2O4RfL.jpg",
+   "store": 10145,
+   "isLocal": true
+  },
+  {
+   "regularPrice": 2.19,
+   "name": "Italian Bread Loaf, 18 OZ",
+   "slug": "slow-dough-italian-bread-loaf-18-oz-b07gl351nh",
+   "brand": "SLOW DOUGH",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/31DDAqfUNjL.jpg",
+   "store": 10145,
+   "isLocal": true
+  },
+  {
+   "regularPrice": 10.49,
+   "name": "Classic White Bread, 15.9 OZ",
+   "slug": "hero-bread-classic-white-bread-159-oz-b0b6wwvlp9",
+   "brand": "Hero Bread",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41gbO-4jHCL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 5.19,
+   "name": "Pain De Mie Bread, 23 OZ",
+   "slug": "slow-dough-pain-de-mie-bread-23-oz-b07gl9k7ly",
+   "brand": "SLOW DOUGH",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/31SPm1IjkgL.jpg",
+   "store": 10145,
+   "isLocal": true
+  },
+  {
+   "regularPrice": 7.29,
+   "salePrice": 6.07,
+   "incrementalSalePrice": 5.46,
+   "saleStartDate": "2026-09-02T00:00:00Z",
+   "saleEndDate": "2026-09-22T23:59:59Z",
+   "name": "Organic Powerseed Bread, 25 OZ",
+   "slug": "daves-killer-bread-organic-powerseed-bread-25-oz-b01lq4nnlq",
+   "brand": "Dave's Killer Bread",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41kLW971ORL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 7.29,
+   "name": "Organic Raisin The Roof Bread, 18 OZ",
+   "slug": "daves-killer-bread-organic-raisin-the-roof-bread-18-oz-b01n9k7w9m",
+   "brand": "Dave's Killer Bread",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41amzYWxQKL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 7.29,
+   "salePrice": 6.07,
+   "incrementalSalePrice": 5.46,
+   "saleStartDate": "2026-09-02T00:00:00Z",
+   "saleEndDate": "2026-09-22T23:59:59Z",
+   "name": "Organic Good Seed Bread, 27 OZ",
+   "slug": "daves-killer-bread-organic-good-seed-bread-27-oz-b006z6mbkk",
+   "brand": "Dave's Killer Bread",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41sshaM90eL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 4.79,
+   "name": "Pumpernickel Bread, 17.6 OZ",
+   "slug": "mestemacher-pumpernickel-bread-176-oz-b000wd5rl2",
+   "brand": "Mestemacher",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41vBq06E2YL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 4.79,
+   "name": "Fitness Bread, 17.6 OZ",
+   "slug": "mestemacher-fitness-bread-176-oz-b00514dbgu",
+   "brand": "Mestemacher",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41sliOS8VsL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 7.29,
+   "salePrice": 6.07,
+   "incrementalSalePrice": 5.46,
+   "saleStartDate": "2026-09-02T00:00:00Z",
+   "saleEndDate": "2026-09-22T23:59:59Z",
+   "name": "Organic 21 Whole Grains Bread, 27 OZ",
+   "slug": "daves-killer-bread-organic-21-whole-grains-bread-27-oz-b001f79mmy",
+   "brand": "Dave's Killer Bread",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41M3L3pfa9L.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 7.29,
+   "salePrice": 6.07,
+   "incrementalSalePrice": 5.46,
+   "saleStartDate": "2026-09-02T00:00:00Z",
+   "saleEndDate": "2026-09-22T23:59:59Z",
+   "name": "Organic White Bread Done Right, 24 OZ",
+   "slug": "daves-killer-bread-organic-white-bread-done-right-24-oz-b00ugbuz1m",
+   "brand": "Dave's Killer Bread",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41oOht8u8YL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 6.29,
+   "name": "Organic Good Seed Thin Sliced Bread, 20.5 OZ",
+   "slug": "daves-killer-bread-organic-good-seed-thin-sliced-bread-205-oz-b0071jhnte",
+   "brand": "Dave's Killer Bread",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41CTp7nSEZL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 10.79,
+   "name": "Keto Bread, 16 OZ",
+   "slug": "base-culture-keto-bread-16-oz-b07qbq8q33",
+   "brand": "Base Culture",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41wGpbfoa0L.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 10.79,
+   "name": "Sourdough Bread, 16 OZ",
+   "slug": "base-culture-sourdough-bread-16-oz-b08n29cy2h",
+   "brand": "Base Culture",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41raQr6Nl-L.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 9.19,
+   "name": "Classic Artisan Bread, 17.6 OZ",
+   "slug": "greenlite-classic-artisan-bread-176-oz-b086fkjkc2",
+   "brand": "Greenlite",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41Q6f86JX6L.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 4.69,
+   "name": "Butter Bread, 20 OZ",
+   "slug": "natures-own-butter-bread-20-oz-b0049w8jhq",
+   "brand": "Natures Own",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41JgrrugyzL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 6.29,
+   "name": "Organic Thin Sliced White Bread Done Right, 20.5 OZ",
+   "slug": "daves-killer-bread-organic-thin-sliced-white-bread-done-right-205-oz-b072fj3dbn",
+   "brand": "Dave's Killer Bread",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41F-zEGuH-L.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 6.29,
+   "name": "Organic 21 Whole Grain Thin Sliced Bread, 20.5 OZ",
+   "slug": "daves-killer-bread-organic-21-whole-grain-thin-sliced-bread-205-oz-b0071jhnwg",
+   "brand": "Dave's Killer Bread",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41Uo3YgK3zL.jpg",
+   "store": 10145,
+   "isLocal": false
+  },
+  {
+   "regularPrice": 6.29,
+   "name": "Organic Thin Sliced Sprouted Whole Grain Bread, 20.5 OZ",
+   "slug": "daves-killer-bread-organic-thin-sliced-sprouted-whole-grain-bread-205-oz-b071lgxzxb",
+   "brand": "Dave's Killer Bread",
+   "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/41TYQ-qeYHL.jpg",
+   "store": 10145,
+   "isLocal": false
+  }
+ ],
+ "meta": {
+  "total": {
+   "value": 270,
+   "relation": "EQUAL_TO"
+  },
+  "state": {
+   "searchText": "bread",
+   "sort": "relevance"
+  }
+ },
+ "facets": []
+}
