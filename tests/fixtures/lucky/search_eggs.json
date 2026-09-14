@@ -1,0 +1,342 @@
+{
+ "data": {
+  "searchResultsPlacements": {
+   "placements": [
+    {
+     "hidden": false,
+     "groupId": null,
+     "addFooterDivider": false,
+     "content": {
+      "elevatedProductId": null,
+      "featuredProducts": [],
+      "itemGridId": "1",
+      "itemIds": [
+       "items_34737-24625295",
+       "items_34737-20227964",
+       "items_34737-20697305",
+       "items_34737-71953",
+       "items_34737-21241631",
+       "items_34737-18021451"
+      ],
+      "items": [],
+      "productBadges": [
+       {
+        "productId": "24625295",
+        "viewSection": {
+         "badge": {
+          "labelString": "Best seller",
+          "suffixString": null,
+          "backgroundColor": "systemGrayscale70",
+          "labelColor": "systemGrayscale00",
+          "positionVariant": "bottomLeft",
+          "shapeVariant": "rectangle",
+          "trackingProperties": {
+           "visible_badges": [
+            "best_seller"
+           ],
+           "badge_type": "best_seller",
+           "badge_display_value": "Best seller",
+           "sponsored_override_badge_display_value": null,
+           "badge_id": null,
+           "badge_position": "bottom_left",
+           "preference_match_type": null
+          },
+          "iconIcon": null,
+          "iconColor": null,
+          "iconImage": null,
+          "iconBackgroundColorHexString": null,
+          "__typename": "ProductBadgeResponseBackedProductBadgeBadgeSection"
+         },
+         "__typename": "ProductBadgeResponseBackedProductBadgeSection"
+        },
+        "__typename": "SearchProductBadge"
+       },
+       {
+        "productId": "71953",
+        "viewSection": {
+         "badge": {
+          "labelString": "Best seller",
+          "suffixString": null,
+          "backgroundColor": "systemGrayscale70",
+          "labelColor": "systemGrayscale00",
+          "positionVariant": "bottomLeft",
+          "shapeVariant": "rectangle",
+          "trackingProperties": {
+           "visible_badges": [
+            "best_seller"
+           ],
+           "badge_type": "best_seller",
+           "badge_display_value": "Best seller",
+           "sponsored_override_badge_display_value": null,
+           "badge_id": null,
+           "badge_position": "bottom_left",
+           "preference_match_type": null
+          },
+          "iconIcon": null,
+          "iconColor": null,
+          "iconImage": null,
+          "iconBackgroundColorHexString": null,
+          "__typename": "ProductBadgeResponseBackedProductBadgeBadgeSection"
+         },
+         "__typename": "ProductBadgeResponseBackedProductBadgeSection"
+        },
+        "__typename": "SearchProductBadge"
+       },
+       {
+        "productId": "20227964",
+        "viewSection": {
+         "badge": {
+          "labelString": "Store choice",
+          "suffixString": null,
+          "backgroundColor": "brandPromotionalDark",
+          "labelColor": "systemGrayscale00",
+          "positionVariant": "bottomLeft",
+          "shapeVariant": "rectangle",
+          "trackingProperties": {
+           "visible_badges": [
+            "store_choice"
+           ],
+           "badge_type": "store_choice",
+           "badge_display_value": "Store choice",
+           "sponsored_override_badge_display_value": null,
+           "badge_id": null,
+           "badge_position": "bottom_left",
+           "preference_match_type": null
+          },
+          "iconIcon": null,
+          "iconColor": null,
+          "iconImage": null,
+          "iconBackgroundColorHexString": null,
+          "__typename": "ProductBadgeResponseBackedProductBadgeBadgeSection"
+         },
+         "__typename": "ProductBadgeResponseBackedProductBadgeSection"
+        },
+        "__typename": "SearchProductBadge"
+       },
+       {
+        "productId": "20697305",
+        "viewSection": {
+         "badge": null,
+         "__typename": "ProductBadgeResponseBackedProductBadgeSection"
+        },
+        "__typename": "SearchProductBadge"
+       }
+      ],
+      "viewSection": {
+       "trackingProperties": {
+        "display_details": {
+         "cluster_id": null
+        },
+        "element_details": {
+         "parent_element_load_id": null,
+         "has_children_ind": null,
+         "cluster_id": null
+        },
+        "engagement_details": {
+         "cluster_id": null
+        },
+        "section_details": {
+         "section_type": "exact_results",
+         "section_content_type": "items",
+         "section_capacity": 7,
+         "section_rank": 3,
+         "format": "vertical_scroll"
+        },
+        "source_details": {
+         "source_type": "search",
+         "source_id": "935691a5-3246-4d79-ae51-8e86504b639f",
+         "source_element_load_id": null,
+         "placement_uuid": null
+        }
+       },
+       "__typename": "ContentManagementSearchItemGridResponseBackedContentManagementSearchItemGridSection"
+      },
+      "productsDebugInfo": [],
+      "itemProperties": [
+       {
+        "id": "24625295",
+        "viewSection": {
+         "trackingProperties": {
+          "display_details": {
+           "display_position": 1,
+           "grid_row": 3,
+           "grid_column": 1,
+           "overall_display_position": 1
+          },
+          "element_details": {
+           "display_position": 1,
+           "overall_display_position": 1,
+           "root_display_position": 1,
+           "in_section_rank": 3,
+           "element_load_id": "394a5679-0c26-431a-a6c0-78115d3b4d78",
+           "search__item_details_uuid": "394a5679-0c26-431a-a6c0-78115d3b4d78"
+          }
+         },
+         "__typename": "ItemPropertiesResponseBackedItemPropertiesSection"
+        },
+        "__typename": "SearchItemProperties"
+       },
+       {
+        "id": "20227964",
+        "viewSection": {
+         "trackingProperties": {
+          "display_details": {
+           "display_position": 2,
+           "grid_row": 3,
+           "grid_column": 2,
+           "overall_display_position": 2
+          },
+          "element_details": {
+           "display_position": 2,
+           "overall_display_position": 2,
+           "root_display_position": 2,
+           "in_section_rank": 3,
+           "element_load_id": "83fead2d-d8b8-4bad-8e48-f8100a79c231",
+           "search__item_details_uuid": "83fead2d-d8b8-4bad-8e48-f8100a79c231"
+          }
+         },
+         "__typename": "ItemPropertiesResponseBackedItemPropertiesSection"
+        },
+        "__typename": "SearchItemProperties"
+       },
+       {
+        "id": "20697305",
+        "viewSection": {
+         "trackingProperties": {
+          "display_details": {
+           "display_position": 3,
+           "grid_row": 3,
+           "grid_column": 3,
+           "overall_display_position": 3
+          },
+          "element_details": {
+           "display_position": 3,
+           "overall_display_position": 3,
+           "root_display_position": 3,
+           "in_section_rank": 3,
+           "element_load_id": "8651977c-a5c6-4e09-ad94-aaea46c18fbc",
+           "search__item_details_uuid": "8651977c-a5c6-4e09-ad94-aaea46c18fbc"
+          }
+         },
+         "__typename": "ItemPropertiesResponseBackedItemPropertiesSection"
+        },
+        "__typename": "SearchItemProperties"
+       },
+       {
+        "id": "71953",
+        "viewSection": {
+         "trackingProperties": {
+          "display_details": {
+           "display_position": 4,
+           "grid_row": 3,
+           "grid_column": 4,
+           "overall_display_position": 4
+          },
+          "element_details": {
+           "display_position": 4,
+           "overall_display_position": 4,
+           "root_display_position": 4,
+           "in_section_rank": 3,
+           "element_load_id": "5fd250b5-a689-4aa4-8643-4bda3e907447",
+           "search__item_details_uuid": "5fd250b5-a689-4aa4-8643-4bda3e907447"
+          }
+         },
+         "__typename": "ItemPropertiesResponseBackedItemPropertiesSection"
+        },
+        "__typename": "SearchItemProperties"
+       },
+       {
+        "id": "21241631",
+        "viewSection": {
+         "trackingProperties": {
+          "display_details": {
+           "display_position": 5,
+           "grid_row": 3,
+           "grid_column": 5,
+           "overall_display_position": 5
+          },
+          "element_details": {
+           "display_position": 5,
+           "overall_display_position": 5,
+           "root_display_position": 5,
+           "in_section_rank": 3,
+           "element_load_id": "98546d9b-6d04-4897-81b2-2c12596c969d",
+           "search__item_details_uuid": "98546d9b-6d04-4897-81b2-2c12596c969d"
+          }
+         },
+         "__typename": "ItemPropertiesResponseBackedItemPropertiesSection"
+        },
+        "__typename": "SearchItemProperties"
+       },
+       {
+        "id": "18021451",
+        "viewSection": {
+         "trackingProperties": {
+          "display_details": {
+           "display_position": 6,
+           "grid_row": 3,
+           "grid_column": 6,
+           "overall_display_position": 6
+          },
+          "element_details": {
+           "display_position": 6,
+           "overall_display_position": 6,
+           "root_display_position": 6,
+           "in_section_rank": 3,
+           "element_load_id": "0215ad7a-b473-46ac-98a9-89606dd64acc",
+           "search__item_details_uuid": "0215ad7a-b473-46ac-98a9-89606dd64acc"
+          }
+         },
+         "__typename": "ItemPropertiesResponseBackedItemPropertiesSection"
+        },
+        "__typename": "SearchItemProperties"
+       },
+       {
+        "id": "19553410",
+        "viewSection": {
+         "trackingProperties": {
+          "display_details": {
+           "display_position": 7,
+           "grid_row": 3,
+           "grid_column": 7,
+           "overall_display_position": 7
+          },
+          "element_details": {
+           "display_position": 7,
+           "overall_display_position": 7,
+           "root_display_position": 7,
+           "in_section_rank": 3,
+           "element_load_id": "4fe9ceb7-7940-41e0-9ad9-d05f2ac3bd45",
+           "search__item_details_uuid": "4fe9ceb7-7940-41e0-9ad9-d05f2ac3bd45"
+          }
+         },
+         "__typename": "ItemPropertiesResponseBackedItemPropertiesSection"
+        },
+        "__typename": "SearchItemProperties"
+       }
+      ],
+      "__typename": "SearchContentManagementSearchItemGrid"
+     },
+     "viewSection": {
+      "trackingProperties": {
+       "element_details": {
+        "placement_id": "exact_result_item_grids",
+        "sub_placement_id": "exact_result_item_grids_0",
+        "content_type": "content_management_search_item_grid"
+       },
+       "display_details": {
+        "tracking_row": "3",
+        "placement_id": "exact_result_item_grids",
+        "sub_placement_id": "exact_result_item_grids_0",
+        "content_type": "content_management_search_item_grid"
+       }
+      },
+      "__typename": "ContentManagementSearchPlacementResponseBackedContentManagementSearchPlacementSection"
+     },
+     "trackingRow": 3,
+     "__typename": "SearchContentManagementSearchPlacement"
+    }
+   ]
+  }
+ }
+}

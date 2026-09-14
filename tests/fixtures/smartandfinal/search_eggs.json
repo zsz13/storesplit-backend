@@ -1,0 +1,242 @@
+{
+ "count": 5,
+ "total": 50,
+ "items": [
+  {
+   "name": "Eggland's Best Brown Cage Free Large Eggs",
+   "brand": "Eggland's Best",
+   "sku": "00715141514643",
+   "productId": "00715141514643",
+   "price": "$5.99",
+   "priceNumeric": 5.99,
+   "wholePrice": 5.99,
+   "pricePerUnit": "$0.50 each",
+   "sellBy": "Each",
+   "unitOfSize": {
+    "abbreviation": "",
+    "type": "each",
+    "label": "Each",
+    "size": 12.0
+   },
+   "unitOfPrice": {
+    "abbreviation": "",
+    "type": "each",
+    "label": "Each",
+    "size": 1.0
+   },
+   "available": true,
+   "priceSource": "regular",
+   "priceLabel": "",
+   "hasLoyaltyDiscount": false,
+   "tprPrice": [],
+   "attributes": {
+    "our_brands": false,
+    "Stock Status": "plenty"
+   },
+   "image": {
+    "default": "https://images.cdn.smartandfinal.com/cell/68fc6f98-8e41-41c6-9af5-0969c1f1421b.jpeg",
+    "cell": "https://images.cdn.smartandfinal.com/cell/68fc6f98-8e41-41c6-9af5-0969c1f1421b.jpeg",
+    "details": "https://images.cdn.smartandfinal.com/detail/68fc6f98-8e41-41c6-9af5-0969c1f1421b.jpeg",
+    "zoom": "https://images.cdn.smartandfinal.com/zoom/68fc6f98-8e41-41c6-9af5-0969c1f1421b.jpeg",
+    "template": "https://images.cdn.smartandfinal.com/{size}/68fc6f98-8e41-41c6-9af5-0969c1f1421b.jpeg"
+   },
+   "defaultCategory": [
+    {
+     "categoryBreadcrumb": "Home/Dairy/Eggs, Egg Products/Specialty Eggs"
+    }
+   ],
+   "promotions": []
+  },
+  {
+   "name": "First Street Loose Large Eggs",
+   "brand": "First Street",
+   "sku": "00041512039638",
+   "productId": "00041512039638",
+   "price": "$17.49",
+   "priceNumeric": 17.49,
+   "wholePrice": 17.49,
+   "pricePerUnit": "$0.12 each",
+   "sellBy": "Each",
+   "unitOfSize": {
+    "abbreviation": "",
+    "type": "each",
+    "label": "Each",
+    "size": 150.0
+   },
+   "unitOfPrice": {
+    "abbreviation": "",
+    "type": "each",
+    "label": "Each",
+    "size": 1.0
+   },
+   "available": true,
+   "priceSource": "regular",
+   "priceLabel": "",
+   "hasLoyaltyDiscount": false,
+   "tprPrice": [],
+   "attributes": {
+    "our_brands": true,
+    "Stock Status": "plenty"
+   },
+   "image": {
+    "default": "https://images.cdn.smartandfinal.com/cell/0fa20620-eb71-4d2e-9502-2d89aa42549c.jpeg",
+    "cell": "https://images.cdn.smartandfinal.com/cell/0fa20620-eb71-4d2e-9502-2d89aa42549c.jpeg",
+    "details": "https://images.cdn.smartandfinal.com/detail/0fa20620-eb71-4d2e-9502-2d89aa42549c.jpeg",
+    "zoom": "https://images.cdn.smartandfinal.com/zoom/0fa20620-eb71-4d2e-9502-2d89aa42549c.jpeg",
+    "template": "https://images.cdn.smartandfinal.com/{size}/0fa20620-eb71-4d2e-9502-2d89aa42549c.jpeg"
+   },
+   "defaultCategory": [
+    {
+     "categoryBreadcrumb": "Home/Dairy/Eggs, Egg Products/Eggs"
+    }
+   ],
+   "promotions": []
+  },
+  {
+   "name": "First Street Eggs, Cage Free, Large",
+   "brand": "First Street",
+   "sku": "00041512014154",
+   "productId": "00041512014154",
+   "price": "$1.99",
+   "priceNumeric": 1.99,
+   "wholePrice": 1.99,
+   "pricePerUnit": "$0.17 each",
+   "sellBy": "Each",
+   "unitOfSize": {
+    "abbreviation": "",
+    "type": "each",
+    "label": "Each",
+    "size": 12.0
+   },
+   "unitOfPrice": {
+    "abbreviation": "",
+    "type": "each",
+    "label": "Each",
+    "size": 1.0
+   },
+   "available": true,
+   "priceSource": "regular",
+   "priceLabel": "",
+   "hasLoyaltyDiscount": false,
+   "tprPrice": [],
+   "attributes": {
+    "our_brands": true,
+    "Stock Status": "plenty"
+   },
+   "image": {
+    "default": "https://images.cdn.smartandfinal.com/cell/b84140b4-fc42-404b-9611-791bbf76657e.jpeg",
+    "cell": "https://images.cdn.smartandfinal.com/cell/b84140b4-fc42-404b-9611-791bbf76657e.jpeg",
+    "details": "https://images.cdn.smartandfinal.com/detail/b84140b4-fc42-404b-9611-791bbf76657e.jpeg",
+    "zoom": "https://images.cdn.smartandfinal.com/zoom/b84140b4-fc42-404b-9611-791bbf76657e.jpeg",
+    "template": "https://images.cdn.smartandfinal.com/{size}/b84140b4-fc42-404b-9611-791bbf76657e.jpeg"
+   },
+   "defaultCategory": [
+    {
+     "categoryBreadcrumb": "Home/Dairy/Eggs, Egg Products/Eggs"
+    }
+   ],
+   "promotions": []
+  },
+  {
+   "name": "First Street Eggs, Cage Free, Large",
+   "brand": "First Street",
+   "sku": "00041512173868",
+   "productId": "00041512173868",
+   "price": "$2.89",
+   "priceNumeric": 2.89,
+   "wholePrice": 2.89,
+   "pricePerUnit": "$0.16 each",
+   "sellBy": "Each",
+   "unitOfSize": {
+    "abbreviation": "",
+    "type": "each",
+    "label": "Each",
+    "size": 18.0
+   },
+   "unitOfPrice": {
+    "abbreviation": "",
+    "type": "each",
+    "label": "Each",
+    "size": 1.0
+   },
+   "available": true,
+   "priceSource": "regular",
+   "priceLabel": "",
+   "hasLoyaltyDiscount": false,
+   "tprPrice": [],
+   "attributes": {
+    "our_brands": true,
+    "Stock Status": "plenty"
+   },
+   "image": {
+    "default": "https://images.cdn.smartandfinal.com/cell/368a5253-5561-43ec-8f42-7f5696457583.jpeg",
+    "cell": "https://images.cdn.smartandfinal.com/cell/368a5253-5561-43ec-8f42-7f5696457583.jpeg",
+    "details": "https://images.cdn.smartandfinal.com/detail/368a5253-5561-43ec-8f42-7f5696457583.jpeg",
+    "zoom": "https://images.cdn.smartandfinal.com/zoom/368a5253-5561-43ec-8f42-7f5696457583.jpeg",
+    "template": "https://images.cdn.smartandfinal.com/{size}/368a5253-5561-43ec-8f42-7f5696457583.jpeg"
+   },
+   "defaultCategory": [
+    {
+     "categoryBreadcrumb": "Home/Dairy/Eggs, Egg Products/Eggs"
+    }
+   ],
+   "promotions": []
+  },
+  {
+   "name": "Pete & Gerry's Organic Free Range Fresh Brown Large Eggs",
+   "brand": "Pete & Gerry's",
+   "sku": "00815652002148",
+   "productId": "00815652002148",
+   "price": "$7.59",
+   "priceNumeric": 7.59,
+   "wasPrice": "$8.59",
+   "wasPriceNumeric": 8.59,
+   "wholePrice": 7.59,
+   "pricePerUnit": "$0.63 each",
+   "sellBy": "Each",
+   "unitOfSize": {
+    "abbreviation": "",
+    "type": "each",
+    "label": "Each",
+    "size": 12.0
+   },
+   "unitOfPrice": {
+    "abbreviation": "",
+    "type": "each",
+    "label": "Each",
+    "size": 1.0
+   },
+   "available": true,
+   "priceSource": "tpr",
+   "priceLabel": "Sale Price",
+   "hasLoyaltyDiscount": false,
+   "tprPrice": [
+    {
+     "markdown": 7.59,
+     "label": "Sale Price",
+     "effectiveFrom": "2026-08-26T07:00:00Z",
+     "effectiveUntil": "2026-09-09T06:59:59Z",
+     "wholePrice": 7.59,
+     "active": true
+    }
+   ],
+   "attributes": {
+    "our_brands": false,
+    "Stock Status": "plenty"
+   },
+   "image": {
+    "default": "https://images.cdn.smartandfinal.com/cell/b18d70c8-0253-4486-b060-64f1952fb799.jpeg",
+    "cell": "https://images.cdn.smartandfinal.com/cell/b18d70c8-0253-4486-b060-64f1952fb799.jpeg",
+    "details": "https://images.cdn.smartandfinal.com/detail/b18d70c8-0253-4486-b060-64f1952fb799.jpeg",
+    "zoom": "https://images.cdn.smartandfinal.com/zoom/b18d70c8-0253-4486-b060-64f1952fb799.jpeg",
+    "template": "https://images.cdn.smartandfinal.com/{size}/b18d70c8-0253-4486-b060-64f1952fb799.jpeg"
+   },
+   "defaultCategory": [
+    {
+     "categoryBreadcrumb": "Home/Dairy/Eggs, Egg Products/Specialty Eggs"
+    }
+   ],
+   "promotions": []
+  }
+ ]
+}

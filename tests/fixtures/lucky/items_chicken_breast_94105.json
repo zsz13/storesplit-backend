@@ -1,0 +1,323 @@
+{
+  "data": {
+    "items": [
+      {
+        "id": "items_31528-19830961",
+        "productId": "19830961",
+        "name": "Chicken Breast, Boneless, Skinless",
+        "size": "3.5 lb",
+        "brandName": null,
+        "evergreenUrl": "19830961-boneless-skinless-master-cut-chicken-breast-3-5-lb",
+        "productCanonicalUrl": {
+          "id": "d473db08",
+          "canonicalUrl": null,
+          "__typename": "LandingProductCanonicalUrl"
+        },
+        "quantityAttributes": {
+          "increment": 1.0,
+          "initial": 1.0,
+          "max": 500.0,
+          "min": 1.0,
+          "quantityType": "each",
+          "selectOptions": [
+            1.0,
+            2.0,
+            3.0,
+            4.0,
+            5.0,
+            6.0,
+            7.0,
+            8.0,
+            9.0
+          ],
+          "defaultSelectOption": 1.0,
+          "parWeight": {
+            "quantity": 1.5,
+            "measurementUnit": {
+              "unitCode": "[lb_av]",
+              "costUnit": "lb",
+              "__typename": "SharedMeasurementUnit"
+            },
+            "__typename": "SharedMeasuredQuantity"
+          },
+          "viewSection": {
+            "maxedOutString": "Max 500 per order",
+            "minReachedString": null,
+            "unitAriaString": "item",
+            "unitPluralAriaString": "items",
+            "unitPluralString": "ct",
+            "unitString": "ct",
+            "iconUnitTypeVisibilityVariant": "hide",
+            "variableWeightDisclaimerString": "Final cost by weight",
+            "variableWeightDisclaimerLongString": "Final cost by weight",
+            "totalWeightEstimateTemplateString": "About %1 lb",
+            "totalWeightEstimateTemplatePluralString": "About %1 lbs",
+            "parWeightDisplayString": "About 1.5 lb each",
+            "quantityUnitVisibilityVariant": "show",
+            "stepperUnitTypeVisibilityVariant": "show",
+            "soldByUnitString": null,
+            "__typename": "ItemsResponseBackedQuantityAttributesSection"
+          },
+          "__typename": "ItemsQuantityAttributes"
+        },
+        "availability": {
+          "available": true,
+          "stockLevel": "lowStock",
+          "isUpcomingProduct": false,
+          "isItemAvailabilityLifecycleEnabled": false,
+          "blackoutTimes": null,
+          "viewSection": {
+            "stockLevelLabelString": "Likely out of stock",
+            "stockLevelIconIcon": "inventoryLow",
+            "replacementsStockLevelLabelString": null,
+            "replacementsStockLevelIconIcon": null,
+            "outOfStockCtaString": null,
+            "upcomingProductAvailableFromString": null,
+            "similarItemsActionVariant": "none",
+            "warningIconImage": {
+              "id": "823fea81",
+              "url": "https://www.instacart.com/assets/dependability/item_availability/loos-a2d8d33f40c0a3c0bbcafbdbf3545724a5d818103b49edb022bedb5b3375a1d7.png",
+              "__typename": "Image"
+            },
+            "__typename": "AvailabilityResponseBackedAvailabilitySection"
+          },
+          "__typename": "ItemsAvailability"
+        },
+        "price": {
+          "viewSection": {
+            "priceString": "$10.18",
+            "fullPriceString": null,
+            "badge": null
+          }
+        },
+        "viewSection": {
+          "itemImage": {
+            "altText": null,
+            "templateUrl": "https://www.instacart.com/image-server/{width=}x{height=}/filters:fill(FFFFFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_ec115d44-d40f-4e7f-a7d2-0243fac5bb1e.jpg",
+            "url": "https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_ec115d44-d40f-4e7f-a7d2-0243fac5bb1e.jpg",
+            "__typename": "Image"
+          },
+          "lowStockVariant": "showV4LowStockModal",
+          "retailerLookupCodeString": null
+        }
+      },
+      {
+        "id": "items_31528-19831039",
+        "productId": "19831039",
+        "name": "Boneless Skinless Chicken Breast Max Pack",
+        "size": "2.5 lb",
+        "brandName": null,
+        "evergreenUrl": "19831039-peco-foods-boneless-skinless-chicken-breast-max-pack-2-5-lb",
+        "productCanonicalUrl": {
+          "id": "b173af02",
+          "canonicalUrl": null,
+          "__typename": "LandingProductCanonicalUrl"
+        },
+        "quantityAttributes": {
+          "increment": 1.0,
+          "initial": 1.0,
+          "max": 500.0,
+          "min": 1.0,
+          "quantityType": "each",
+          "selectOptions": [
+            1.0,
+            2.0,
+            3.0,
+            4.0,
+            5.0,
+            6.0,
+            7.0,
+            8.0,
+            9.0
+          ],
+          "defaultSelectOption": 1.0,
+          "parWeight": {
+            "quantity": 3.44,
+            "measurementUnit": {
+              "unitCode": "[lb_av]",
+              "costUnit": "lb",
+              "__typename": "SharedMeasurementUnit"
+            },
+            "__typename": "SharedMeasuredQuantity"
+          },
+          "viewSection": {
+            "maxedOutString": "Max 500 per order",
+            "minReachedString": null,
+            "unitAriaString": "package",
+            "unitPluralAriaString": "packages",
+            "unitPluralString": "pkgs",
+            "unitString": "pkg",
+            "iconUnitTypeVisibilityVariant": "show",
+            "variableWeightDisclaimerString": "Final cost by weight",
+            "variableWeightDisclaimerLongString": "Final cost by weight",
+            "totalWeightEstimateTemplateString": "About %1 lb",
+            "totalWeightEstimateTemplatePluralString": "About %1 lbs",
+            "parWeightDisplayString": "About 3.44 lb / package",
+            "quantityUnitVisibilityVariant": "show",
+            "stepperUnitTypeVisibilityVariant": "show",
+            "soldByUnitString": null,
+            "__typename": "ItemsResponseBackedQuantityAttributesSection"
+          },
+          "__typename": "ItemsQuantityAttributes"
+        },
+        "availability": {
+          "available": true,
+          "stockLevel": "inStock",
+          "isUpcomingProduct": false,
+          "isItemAvailabilityLifecycleEnabled": false,
+          "blackoutTimes": null,
+          "viewSection": {
+            "stockLevelLabelString": null,
+            "stockLevelIconIcon": null,
+            "replacementsStockLevelLabelString": null,
+            "replacementsStockLevelIconIcon": null,
+            "outOfStockCtaString": null,
+            "upcomingProductAvailableFromString": null,
+            "similarItemsActionVariant": "none",
+            "warningIconImage": null,
+            "__typename": "AvailabilityResponseBackedAvailabilitySection"
+          },
+          "__typename": "ItemsAvailability"
+        },
+        "price": {
+          "viewSection": {
+            "priceString": "$10.29",
+            "fullPriceString": "$17.17",
+            "badge": {
+              "genericSaleLabelString": "Sale",
+              "actionLabelString": null,
+              "badgeVariant": "sale",
+              "offerLabelString": "40% off",
+              "applyCouponString": "Apply coupon",
+              "couponAppliedString": "Coupon applied",
+              "couponClippedVariant": "false",
+              "multiUnitClippablePromotionVariant": "nonClippable",
+              "eligibleItemsUxVariant": "button",
+              "offerSublabelString": null,
+              "offerReferenceString": null,
+              "multiplePromotionsLabelString": null,
+              "itemMultiplePromotionsVariant": "pillCarouselWithProgressBar",
+              "cpgPromotionVariant": null,
+              "adsSolutionsSavingsRiseMigrationVariant": "control",
+              "viewableTrackingEventName": "savings.client.viewport_viewable_item",
+              "promotionClipClientTrackingEventName": "savings.client.clip_coupon",
+              "promotionClickCtaClientTrackingEventName": "savings.client.click_cta",
+              "trackingProperties": {
+                "badge_type": "sale",
+                "promotion_id": "",
+                "discount_policy_id": "",
+                "promotion_load_id": "1311c32f-da95-44d6-bc38-ab74e7be3962",
+                "price": "$10.29",
+                "save_amount": "40% off",
+                "promotion_type": null
+              },
+              "__typename": "ItemsResponseBackedItemPriceBadgeSection"
+            }
+          }
+        },
+        "viewSection": {
+          "itemImage": {
+            "altText": null,
+            "templateUrl": "https://www.instacart.com/image-server/{width=}x{height=}/filters:fill(FFFFFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_522bba53-aecc-46ba-a0e4-87c73e6aefd4.jpg",
+            "url": "https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_522bba53-aecc-46ba-a0e4-87c73e6aefd4.jpg",
+            "__typename": "Image"
+          },
+          "lowStockVariant": "none",
+          "retailerLookupCodeString": null
+        }
+      },
+      {
+        "id": "items_31528-27178749",
+        "productId": "27178749",
+        "name": "Just Bare Brand Boneless Skinless Chicken Breast Fillets",
+        "size": "1.125 lb",
+        "brandName": "just bare brand",
+        "evergreenUrl": "27178749-pilgrim-s-pride-fresh-natural-chicken-breast-fillets-18-oz",
+        "productCanonicalUrl": {
+          "id": "0683eedf",
+          "canonicalUrl": null,
+          "__typename": "LandingProductCanonicalUrl"
+        },
+        "quantityAttributes": {
+          "increment": 1.0,
+          "initial": 1.0,
+          "max": 500.0,
+          "min": 1.0,
+          "quantityType": "each",
+          "selectOptions": [
+            1.0,
+            2.0,
+            3.0,
+            4.0,
+            5.0,
+            6.0,
+            7.0,
+            8.0,
+            9.0
+          ],
+          "defaultSelectOption": 1.0,
+          "parWeight": null,
+          "viewSection": {
+            "maxedOutString": "Max 500 per order",
+            "minReachedString": null,
+            "unitAriaString": "item",
+            "unitPluralAriaString": "items",
+            "unitPluralString": "ct",
+            "unitString": "ct",
+            "iconUnitTypeVisibilityVariant": "hide",
+            "variableWeightDisclaimerString": null,
+            "variableWeightDisclaimerLongString": null,
+            "totalWeightEstimateTemplateString": null,
+            "totalWeightEstimateTemplatePluralString": null,
+            "parWeightDisplayString": null,
+            "quantityUnitVisibilityVariant": "show",
+            "stepperUnitTypeVisibilityVariant": "hide",
+            "soldByUnitString": null,
+            "__typename": "ItemsResponseBackedQuantityAttributesSection"
+          },
+          "__typename": "ItemsQuantityAttributes"
+        },
+        "availability": {
+          "available": true,
+          "stockLevel": "highlyInStock",
+          "isUpcomingProduct": false,
+          "isItemAvailabilityLifecycleEnabled": false,
+          "blackoutTimes": null,
+          "viewSection": {
+            "stockLevelLabelString": "Many in stock",
+            "stockLevelIconIcon": "inventoryBetter",
+            "replacementsStockLevelLabelString": null,
+            "replacementsStockLevelIconIcon": null,
+            "outOfStockCtaString": null,
+            "upcomingProductAvailableFromString": null,
+            "similarItemsActionVariant": "none",
+            "warningIconImage": {
+              "id": "355dc28a",
+              "url": "https://www.instacart.com/assets/dependability/item_availability/highly_in_stock-18910a57dac5f8e2db073c800e1742558d519cc5d5b20f375efa8a495462471c.png",
+              "__typename": "Image"
+            },
+            "__typename": "AvailabilityResponseBackedAvailabilitySection"
+          },
+          "__typename": "ItemsAvailability"
+        },
+        "price": {
+          "viewSection": {
+            "priceString": "$15.79",
+            "fullPriceString": null,
+            "badge": null
+          }
+        },
+        "viewSection": {
+          "itemImage": {
+            "altText": null,
+            "templateUrl": "https://www.instacart.com/image-server/{width=}x{height=}/filters:fill(FFFFFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_69303466-7665-4a81-a29d-6b4e8190e0e2.jpg",
+            "url": "https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_69303466-7665-4a81-a29d-6b4e8190e0e2.jpg",
+            "__typename": "Image"
+          },
+          "lowStockVariant": "none",
+          "retailerLookupCodeString": null
+        }
+      }
+    ]
+  }
+}

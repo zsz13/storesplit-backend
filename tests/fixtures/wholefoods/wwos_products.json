@@ -1,0 +1,116 @@
+[
+ {
+  "name": "Organic Banana, 1 Bunch (4-5 Count)",
+  "asin": "B0014GPSKQ",
+  "availability": null,
+  "pdpType": "STANDARD",
+  "offerDetails": null,
+  "deliveryPromiseHtml": null,
+  "ctaTag": null
+ },
+ {
+  "name": "Organic Banana, 1 Each",
+  "asin": "B0787Y4V6T",
+  "availability": "IN_STOCK",
+  "pdpType": "STANDARD",
+  "offerDetails": {
+   "price": {
+    "currencyCode": "USD",
+    "priceAmount": 0.99,
+    "basisPriceAmount": null,
+    "savings": {
+     "currencyCode": null,
+     "savingsAmount": null,
+     "percentSavings": null
+    },
+    "primeBenefit": {
+     "isApplied": null,
+     "text": null,
+     "currencyCode": null,
+     "priceAmount": null,
+     "savingsAmount": null
+    }
+   },
+   "unitPrice": {
+    "baseUnit": "each",
+    "currencyCode": "USD",
+    "priceAmount": 0.35
+   },
+   "offerListingId": "95aWFqUlDPXysvAiKiRX0LKEBkCdm4C9MBUW4MA6lEewxZMYovxGhZJr8tLHae5t5jOTNIojjwM3Eb%2FVCxxYjfL1FaKKT9c45r4IKR%2Fw8hBcnvRSX%2BjRuIh1ZG99fDfnTMna%2BThTgk%2FKJg5%2FQ1XCaMgzfyOy1cW%2B1hq1N0o6J%2FyeNbWrG9xQqWChGUr7kHq4",
+   "maxOrderQuantity": 91,
+   "isMaxQuantityRestricted": true
+  },
+  "deliveryPromiseHtml": "<div data-cy=\"delivery-block\" class=\"a-section a-spacing-none a-padding-none udm-delivery-block\"><div class=\"a-row a-size-small a-color-base udm-primary-delivery-message\"><div class=\"a-column a-span12\">$9.95 delivery <span id=\"WVCRIAFWG\" class=\"a-text-bold\">Today 7\u202fAM - 9\u202fAM</span> with Prime</div></div></div>",
+  "ctaTag": "UNRECOGNIZED_SIGN_IN"
+ },
+ {
+  "name": "Banana Conventional, 1 Each",
+  "asin": "B07FYYKKQK",
+  "availability": "IN_STOCK",
+  "pdpType": "STANDARD",
+  "offerDetails": {
+   "price": {
+    "currencyCode": "USD",
+    "priceAmount": 0.69,
+    "basisPriceAmount": null,
+    "savings": {
+     "currencyCode": null,
+     "savingsAmount": null,
+     "percentSavings": null
+    },
+    "primeBenefit": {
+     "isApplied": null,
+     "text": null,
+     "currencyCode": null,
+     "priceAmount": null,
+     "savingsAmount": null
+    }
+   },
+   "unitPrice": {
+    "baseUnit": "each",
+    "currencyCode": "USD",
+    "priceAmount": 0.21
+   },
+   "offerListingId": "95aWFqUlDPXysvAiKiRX0CagdiecsZixMn6VqCqzpbnAH%2B1KVKcDu7qEbpiGEyC%2FCD9EEnh40RgSljx1WcjDNWttvWFhaV9yFRVlJfONTWHusuAAtgjsxw9rIrU%2FsDzNNyqlOY2aRRQXuwCMlTuvZcbMLONqg%2BdqwJikTcVqAAeXpeT4qyDoC58sOL%2FuKQPK",
+   "maxOrderQuantity": 970,
+   "isMaxQuantityRestricted": true
+  },
+  "deliveryPromiseHtml": "<div data-cy=\"delivery-block\" class=\"a-section a-spacing-none a-padding-none udm-delivery-block\"><div class=\"a-row a-size-small a-color-base udm-primary-delivery-message\"><div class=\"a-column a-span12\">$9.95 delivery <span id=\"WVCRIAFWG\" class=\"a-text-bold\">Today 7\u202fAM - 9\u202fAM</span> with Prime</div></div></div>",
+  "ctaTag": "UNRECOGNIZED_SIGN_IN"
+ },
+ {
+  "name": "Pete & Gerrys Pasture-Raised Large 12 CT",
+  "asin": "B0BT377KP2",
+  "availability": "IN_STOCK",
+  "pdpType": "STANDARD",
+  "offerDetails": {
+   "price": {
+    "currencyCode": "USD",
+    "priceAmount": 7.49,
+    "basisPriceAmount": null,
+    "savings": {
+     "currencyCode": null,
+     "savingsAmount": null,
+     "percentSavings": null
+    },
+    "primeBenefit": {
+     "isApplied": null,
+     "text": null,
+     "currencyCode": null,
+     "priceAmount": null,
+     "savingsAmount": null
+    }
+   },
+   "unitPrice": {
+    "baseUnit": "ounce",
+    "currencyCode": "USD",
+    "priceAmount": 0.29
+   },
+   "offerListingId": "95aWFqUlDPXysvAiKiRX0IhFWjpr321e%2FoUTN%2FE5aTwVgWPiEEudaqVOXVd2d4oESg4zdnW4W5q3hNMB1N%2BnWPHzV15mb8PCSyN9CA0RvG4URiZAPBiVg8RyDcu5nRelcU9t3%2FzLZ%2BxA2Niogy1Qvx35jo3iiAgtJH6vM232WsvTe7QhajGkmNvKXjnA4USp",
+   "maxOrderQuantity": 9,
+   "isMaxQuantityRestricted": true
+  },
+  "deliveryPromiseHtml": "<div data-cy=\"delivery-block\" class=\"a-section a-spacing-none a-padding-none udm-delivery-block\"><div class=\"a-row a-size-small a-color-base udm-primary-delivery-message\"><div class=\"a-column a-span12\">$9.95 delivery <span id=\"WVCRIAFWG\" class=\"a-text-bold\">Today 7\u202fAM - 9\u202fAM</span> with Prime</div></div></div>",
+  "ctaTag": "UNRECOGNIZED_SIGN_IN"
+ }
+]

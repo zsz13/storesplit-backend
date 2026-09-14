@@ -1,0 +1,83 @@
+{
+  "captured": {
+    "endpoint": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2",
+    "category": "4tgi7 (Fresh Chicken)",
+    "pricing_store_id": "3264",
+    "note": "The `price` objects are Target's own, captured verbatim from the product pages for A-86676070 and A-84991365; titles and buy_urls are the published ones. The shelf envelope reproduces the shape of plp_search_v2.json beside it, because Target's category endpoint answered 435 (PerimeterX) at capture time and this repo does not work around a challenge."
+  },
+  "data": {
+    "search": {
+      "products": [
+        {
+          "tcin": "86676070",
+          "price": {
+            "display_was_now": false,
+            "formatted_current_price": "$12.95",
+            "formatted_current_price_suffix": "max price",
+            "formatted_current_price_type": "reg",
+            "formatted_max_item_price": "$12.95",
+            "formatted_unit_price": "$2.59",
+            "formatted_unit_price_suffix": "/lb",
+            "location_id": 3264,
+            "current_retail": 2.59,
+            "external_system_id": "86676070-3264-2.59-2026090315",
+            "reg_retail": 2.59
+          },
+          "item": {
+            "dpci": "265-01-0132",
+            "primary_brand": {
+              "name": "Good &#38; Gather&#8482;"
+            },
+            "product_description": {
+              "title": "Fresh All Natural Boneless &#38; Skinless Chicken Breast Value Pack - 2.5-5.25lbs - price per lb - Good &#38; Gather&#8482;",
+              "bullet_descriptions": [
+                "<B>Net weight:</B> 2.5 Pounds - 5.25 Pounds",
+                "<B>State of Readiness:</B> Needs to Be Fully Cooked"
+              ]
+            },
+            "enrichment": {
+              "buy_url": "https://www.target.com/p/conventional-boneless-skinless-chicken-breast-value-pack-2-5-5-25-lbs-price-per-lb-good-38-gather-8482/-/A-86676070",
+              "image_info": {
+                "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_chicken"
+              }
+            }
+          }
+        },
+        {
+          "tcin": "84991365",
+          "price": {
+            "display_was_now": false,
+            "formatted_current_price": "$11.98",
+            "formatted_current_price_suffix": "max price",
+            "formatted_current_price_type": "reg",
+            "formatted_max_item_price": "$11.98",
+            "formatted_unit_price": "$5.99",
+            "formatted_unit_price_suffix": "/lb",
+            "location_id": 3264,
+            "current_retail": 5.99,
+            "external_system_id": "84991365-3264-5.99-2026041415",
+            "reg_retail": 5.99
+          },
+          "item": {
+            "dpci": "265-01-0086",
+            "primary_brand": {
+              "name": "Foster Farms"
+            },
+            "product_description": {
+              "title": "Foster Farms No Antibiotics Ever Boneless Skinless Chicken Breasts - 1.25-2.5lbs - price per lb: Certified Humane, High Protein, Cage Free",
+              "bullet_descriptions": [
+                "<B>Net weight:</B> 1.25 Pounds - 2.5 Pounds"
+              ]
+            },
+            "enrichment": {
+              "buy_url": "https://www.target.com/p/foster-farms-nae-boneless-skinless-chicken-breasts-1-25-2-5lbs-price-per-lb/-/A-84991365",
+              "image_info": {
+                "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_foster"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

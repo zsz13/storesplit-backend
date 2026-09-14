@@ -1,0 +1,133 @@
+{
+  "code": 0,
+  "success": true,
+  "data": {
+    "total": 66,
+    "records": [
+      {
+        "storeNumber": 1769,
+        "name": "Daly City",
+        "street": "250 Skyline Plaza",
+        "city": "Daly City",
+        "state": "CA",
+        "zipCode": "94015",
+        "latitude": "37.681936000000",
+        "longitude": "-122.488423000000",
+        "distance": 5.99,
+        "online": true,
+        "offline": true,
+        "storeType": 1,
+        "telephone": "(650)-419-8899",
+        "timeZone": "America/Los_Angeles",
+        "offlineBusinessTimes": [
+          {
+            "dayOfWeeks": "Friday - Sunday",
+            "startTime": "08:00",
+            "endTime": "22:00"
+          },
+          {
+            "dayOfWeeks": "Monday - Thursday",
+            "startTime": "08:00",
+            "endTime": "21:00"
+          }
+        ],
+        "onlineBusinessTimes": [
+          {
+            "dayOfWeeks": "Monday - Sunday",
+            "startTime": "08:00",
+            "endTime": "22:00"
+          }
+        ]
+      },
+      {
+        "storeNumber": 1781,
+        "name": "Richmond",
+        "street": "3288 Pierce St",
+        "city": "Richmond",
+        "state": "CA",
+        "zipCode": "94804",
+        "latitude": "37.898365000000",
+        "longitude": "-122.307712500000",
+        "distance": 11.99,
+        "online": true,
+        "offline": true,
+        "storeType": 1,
+        "telephone": "(510) 769-8899",
+        "timeZone": "America/Los_Angeles",
+        "offlineBusinessTimes": [
+          {
+            "dayOfWeeks": "Friday - Sunday",
+            "startTime": "08:00",
+            "endTime": "22:00"
+          },
+          {
+            "dayOfWeeks": "Monday - Thursday",
+            "startTime": "08:00",
+            "endTime": "21:00"
+          }
+        ],
+        "onlineBusinessTimes": [
+          {
+            "dayOfWeeks": "Monday - Sunday",
+            "startTime": "08:00",
+            "endTime": "22:00"
+          }
+        ]
+      },
+      {
+        "storeNumber": 1782,
+        "name": "Foster City",
+        "street": "1070 Foster City Blvd",
+        "city": "Foster City",
+        "state": "CA",
+        "zipCode": "94404",
+        "latitude": "37.553563800000",
+        "longitude": "-122.257070900000",
+        "distance": 16.12,
+        "online": true,
+        "offline": true,
+        "storeType": 1,
+        "telephone": "(650) 358-8999",
+        "timeZone": "America/Los_Angeles",
+        "offlineBusinessTimes": [
+          {
+            "dayOfWeeks": "Monday - Sunday",
+            "startTime": "08:00",
+            "endTime": "22:00"
+          }
+        ],
+        "onlineBusinessTimes": [
+          {
+            "dayOfWeeks": "Monday - Sunday",
+            "startTime": "08:00",
+            "endTime": "22:00"
+          }
+        ]
+      },
+      {
+        "storeNumber": 1762,
+        "name": "Fremont (Fremont Blvd)",
+        "street": "34444 Fremont Blvd",
+        "city": "Fremont",
+        "state": "CA",
+        "zipCode": "94555",
+        "latitude": "37.575324900000",
+        "longitude": "-122.039262500000",
+        "distance": 23.97,
+        "online": false,
+        "offline": true,
+        "storeType": 1,
+        "telephone": "(510) 791-8899",
+        "timeZone": "America/Los_Angeles",
+        "offlineBusinessTimes": [
+          {
+            "dayOfWeeks": "Monday - Sunday",
+            "startTime": "09:00",
+            "endTime": "21:00"
+          }
+        ],
+        "onlineBusinessTimes": []
+      }
+    ]
+  }
+}

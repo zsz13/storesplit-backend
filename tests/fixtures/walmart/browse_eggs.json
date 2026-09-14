@@ -1,0 +1,220 @@
+{
+ "props": {
+  "pageProps": {
+   "initialData": {
+    "searchResult": {
+     "itemStacks": [
+      {
+       "items": [
+        {
+         "usItemId": "100966386",
+         "name": "Great Value Large Cage-Free White Eggs 18 Count",
+         "brand": null,
+         "canonicalUrl": "/ip/Great-Value-Cage-Free-White-Eggs-Large-18-Count/100966386?classType=REGULAR&athbdg=L1102",
+         "image": "https://i5.walmartimages.com/seo/Great-Value-Cage-Free-White-Eggs-Large-18-Count_4879b49e-5148-426e-b67e-384e8be6f14b.4c32f640f321c3efc8ffd15ae311045a.jpeg",
+         "availabilityStatusV2": {
+          "display": "In stock",
+          "value": "IN_STOCK"
+         },
+         "canAddToCart": true,
+         "fulfillmentType": "STORE",
+         "fulfillmentSummary": [
+          {
+           "fulfillment": "PICKUP",
+           "storeId": "2648"
+          }
+         ],
+         "priceInfo": {
+          "unitPrice": "",
+          "priceDetails": {
+           "currency": "USD",
+           "priceLines": [
+            {
+             "lineType": "CURRENT_PRICE",
+             "values": [
+              {
+               "key": "PRICE",
+               "value": "2.47"
+              }
+             ]
+            },
+            {
+             "lineType": "UNIT_PRICE",
+             "values": [
+              {
+               "key": "UNIT_PRICE",
+               "value": "13.7 \u00a2/count"
+              }
+             ]
+            }
+           ]
+          }
+         },
+         "averageWeight": null
+        },
+        {
+         "usItemId": "421705528",
+         "name": "Great Value Cage-Free Large White Eggs, 12 Count",
+         "brand": null,
+         "canonicalUrl": "/ip/Great-Value-Cage-Free-Large-White-Eggs-12-Count/421705528?classType=REGULAR&athbdg=L1102",
+         "image": "https://i5.walmartimages.com/seo/Great-Value-Cage-Free-Large-White-Eggs-12-Count_22b4f531-750e-41ed-9057-079dc022c618.62b239344db5102e607637e1048a53b9.jpeg",
+         "availabilityStatusV2": {
+          "display": "In stock",
+          "value": "IN_STOCK"
+         },
+         "canAddToCart": true,
+         "fulfillmentType": "STORE",
+         "fulfillmentSummary": [
+          {
+           "fulfillment": "PICKUP",
+           "storeId": "2648"
+          }
+         ],
+         "priceInfo": {
+          "unitPrice": "",
+          "priceDetails": {
+           "currency": "USD",
+           "priceLines": [
+            {
+             "lineType": "CURRENT_PRICE",
+             "values": [
+              {
+               "key": "PRICE",
+               "value": "1.67"
+              }
+             ]
+            },
+            {
+             "lineType": "UNIT_PRICE",
+             "values": [
+              {
+               "key": "UNIT_PRICE",
+               "value": "13.9 \u00a2/count"
+              }
+             ]
+            }
+           ]
+          }
+         },
+         "averageWeight": null
+        },
+        {
+         "usItemId": "115864065",
+         "name": "Vital Farms Pasture Raised Grade A Brown Eggs, Large, 12 Ct",
+         "brand": null,
+         "canonicalUrl": "/ip/Vital-Farms-Pasture-Raised-Grade-A-Large-Brown-Eggs-12-Count/115864065?classType=REGULAR",
+         "image": "https://i5.walmartimages.com/seo/Vital-Farms-Pasture-Raised-Grade-A-Large-Brown-Eggs-12-Count_432e966c-8353-4522-9c6a-8fa9bdbe9c22.0727b2fa38e6e7ddbeda5725f199de4f.jpeg",
+         "availabilityStatusV2": {
+          "display": "In stock",
+          "value": "IN_STOCK"
+         },
+         "canAddToCart": true,
+         "fulfillmentType": "STORE",
+         "fulfillmentSummary": [
+          {
+           "fulfillment": "PICKUP",
+           "storeId": "2648"
+          }
+         ],
+         "priceInfo": {
+          "unitPrice": "",
+          "priceDetails": {
+           "currency": "USD",
+           "priceLines": [
+            {
+             "lineType": "CURRENT_PRICE",
+             "values": [
+              {
+               "key": "PRICE",
+               "value": "7.46"
+              }
+             ]
+            },
+            {
+             "lineType": "UNIT_PRICE",
+             "values": [
+              {
+               "key": "UNIT_PRICE",
+               "value": "62.2 \u00a2/ea"
+              }
+             ]
+            }
+           ]
+          }
+         },
+         "averageWeight": null
+        },
+        {
+         "usItemId": "5475222501",
+         "name": "(Pack of 1) Powdered Whole Eggs | Long Term Storage (10 years shelf life) Emergency Supply | Hiking, Backpacking & Camping | Easy Prep Survival Food | Size #2.5 Can (8 oz per can) 18 Serving Per Can",
+         "brand": null,
+         "canonicalUrl": "/ip/Pack-1-Powdered-Whole-Eggs-Long-Term-Storage-10-years-shelf-life-Emergency-Supply-Hiking-Backpacking-Camping-Easy-Prep-Survival-Food-Size-2-5-Can-8-o/5475222501?classType=VARIANT",
+         "image": "https://i5.walmartimages.com/seo/Pack-1-Powdered-Whole-Eggs-Long-Term-Storage-10-years-shelf-life-Emergency-Supply-Hiking-Backpacking-Camping-Easy-Prep-Survival-Food-Size-2-5-Can-8-o_50615303-68f6-47d3-ae1f-523c1e9ca85d.16ed5593d05c764739b5b75c1a348c99.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+         "availabilityStatusV2": {
+          "display": "In stock",
+          "value": "IN_STOCK"
+         },
+         "canAddToCart": false,
+         "fulfillmentType": "FC",
+         "fulfillmentSummary": [
+          {
+           "fulfillment": "DELIVERY",
+           "storeId": "0"
+          }
+         ],
+         "priceInfo": {
+          "unitPrice": "",
+          "priceDetails": {
+           "currency": "USD",
+           "priceLines": [
+            {
+             "lineType": "CURRENT_PRICE",
+             "values": [
+              {
+               "key": "PRICE",
+               "value": "30.42"
+              }
+             ]
+            },
+            {
+             "lineType": "OPTIONS_RANGE",
+             "values": [
+              {
+               "key": "LOW_PRICE",
+               "value": "30.42"
+              },
+              {
+               "key": "HIGH_PRICE",
+               "value": "279.99"
+              }
+             ]
+            }
+           ]
+          }
+         },
+         "averageWeight": null
+        },
+        {
+         "usItemId": null,
+         "name": null,
+         "brand": null,
+         "canonicalUrl": null,
+         "image": null,
+         "availabilityStatusV2": null,
+         "canAddToCart": null,
+         "fulfillmentType": null,
+         "fulfillmentSummary": [],
+         "priceInfo": {
+          "unitPrice": null,
+          "priceDetails": null
+         },
+         "averageWeight": null
+        }
+       ]
+      }
+     ]
+    }
+   }
+  }
+ }
+}

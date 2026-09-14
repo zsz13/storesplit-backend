@@ -1,0 +1,41 @@
+{
+  "captured": {
+    "endpoint": "https://www.target.com/cdui_orchestrations/v1/pages/pdp/deferred_enrichment/modules",
+    "store_id": "3264",
+    "note": "Verbatim `price` blocks as Target served them for these two TCINs at San Francisco Stonestown. `current_retail` is the per-pound rate; `formatted_max_item_price` is Target's own ceiling for the tray."
+  },
+  "products": [
+    {
+      "tcin": "86676070",
+      "price": {
+        "display_was_now": false,
+        "formatted_current_price": "$12.95",
+        "formatted_current_price_suffix": "max price",
+        "formatted_current_price_type": "reg",
+        "formatted_max_item_price": "$12.95",
+        "formatted_unit_price": "$2.59",
+        "formatted_unit_price_suffix": "/lb",
+        "location_id": 3264,
+        "current_retail": 2.59,
+        "external_system_id": "86676070-3264-2.59-2026090315",
+        "reg_retail": 2.59
+      }
+    },
+    {
+      "tcin": "84991365",
+      "price": {
+        "display_was_now": false,
+        "formatted_current_price": "$11.98",
+        "formatted_current_price_suffix": "max price",
+        "formatted_current_price_type": "reg",
+        "formatted_max_item_price": "$11.98",
+        "formatted_unit_price": "$5.99",
+        "formatted_unit_price_suffix": "/lb",
+        "location_id": 3264,
+        "current_retail": 5.99,
+        "external_system_id": "84991365-3264-5.99-2026041415",
+        "reg_retail": 5.99
+      }
+    }
+  ]
+}

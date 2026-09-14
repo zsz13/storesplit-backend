@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "productId": "0001111060903",
+      "upc": "0001111060903",
+      "brand": "Kroger",
+      "categories": [
+        "Dairy"
+      ],
+      "description": "Kroger Grade A Large Eggs",
+      "images": [
+        {
+          "perspective": "front",
+          "sizes": [
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0001111060903"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0001111060903"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0001111060903",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 2.99,
+            "promo": 2.49
+          },
+          "size": "12 ct",
+          "soldBy": "UNIT",
+          "inventory": {
+            "stockLevel": "HIGH"
+          }
+        }
+      ]
+    },
+    {
+      "productId": "0000000004011",
+      "upc": "0000000004011",
+      "brand": "",
+      "categories": [
+        "Produce"
+      ],
+      "description": "Bananas",
+      "images": [],
+      "items": [
+        {
+          "itemId": "0000000004011",
+          "price": {
+            "regular": 0.59,
+            "promo": 0
+          },
+          "size": "1 lb",
+          "soldBy": "WEIGHT",
+          "inventory": {
+            "stockLevel": "HIGH"
+          }
+        }
+      ]
+    },
+    {
+      "productId": "0001111099999",
+      "upc": "0001111099999",
+      "brand": "Kroger",
+      "categories": [
+        "Dairy"
+      ],
+      "description": "Kroger Grade A Large Eggs 18 Count",
+      "images": [],
+      "items": [
+        {
+          "itemId": "0001111099999",
+          "price": {
+            "regular": 4.49,
+            "promo": 4.49
+          },
+          "size": "18 ct",
+          "soldBy": "UNIT",
+          "inventory": {
+            "stockLevel": "LOW"
+          }
+        }
+      ]
+    },
+    {
+      "productId": "0001111000000",
+      "upc": "0001111000000",
+      "brand": "Kroger",
+      "categories": [
+        "Dairy"
+      ],
+      "description": "No price product",
+      "images": [],
+      "items": [
+        {
+          "itemId": "0001111000000",
+          "size": "12 ct",
+          "soldBy": "UNIT"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "start": 0,
+      "limit": 50,
+      "total": 2
+    }
+  }
+}

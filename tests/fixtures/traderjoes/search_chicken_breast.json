@@ -1,0 +1,135 @@
+{
+ "data": {
+  "products": {
+   "items": [
+    {
+     "sku": "093617",
+     "item_title": "Pesto Chicken Breast",
+     "name": "PESTO CHICKEN BREAST",
+     "sales_size": 1,
+     "sales_uom_description": "Lb",
+     "sales_uom_code": "180",
+     "retail_price": "8.99",
+     "price_range": {
+      "minimum_price": {
+       "final_price": {
+        "currency": "USD",
+        "value": 8.99,
+        "__typename": "Money"
+       },
+       "__typename": "ProductPrice"
+      },
+      "__typename": "PriceRange"
+     },
+     "availability": "1",
+     "promotion": "0",
+     "product_label": null,
+     "new_product": "0",
+     "url_key": "093617-pesto-genovese-chicken-breast",
+     "primary_image": "/content/dam/trjo/products/m20802/93617.png",
+     "category_hierarchy": [
+      {
+       "name": "Products"
+      },
+      {
+       "name": "Food"
+      },
+      {
+       "name": "Meat, Seafood & Plant-based"
+      },
+      {
+       "name": "Chicken & Turkey"
+      }
+     ]
+    },
+    {
+     "sku": "083524",
+     "item_title": "Grilled Chili Lime Chicken Breast",
+     "name": "CHILI LIME GRILLED CHICKEN",
+     "sales_size": 12,
+     "sales_uom_description": "Oz",
+     "sales_uom_code": "179",
+     "retail_price": "7.99",
+     "price_range": {
+      "minimum_price": {
+       "final_price": {
+        "currency": "USD",
+        "value": 7.99,
+        "__typename": "Money"
+       },
+       "__typename": "ProductPrice"
+      },
+      "__typename": "PriceRange"
+     },
+     "availability": "1",
+     "promotion": null,
+     "product_label": null,
+     "new_product": "0",
+     "url_key": "083524-chili-lime-grilled-chicken",
+     "primary_image": "/content/dam/trjo/products/m20802/83524.png",
+     "category_hierarchy": [
+      {
+       "name": "Products"
+      },
+      {
+       "name": "Food"
+      },
+      {
+       "name": "Meat, Seafood & Plant-based"
+      },
+      {
+       "name": "Chicken & Turkey"
+      }
+     ]
+    },
+    {
+     "sku": "063550",
+     "item_title": "Organic Free Range Boneless Skinless Chicken Breasts",
+     "name": "ORGANIC CHICKEN BREAST",
+     "sales_size": 1,
+     "sales_uom_description": "Lb",
+     "sales_uom_code": "180",
+     "retail_price": "7.49",
+     "price_range": {
+      "minimum_price": {
+       "final_price": {
+        "currency": "USD",
+        "value": 7.49,
+        "__typename": "Money"
+       },
+       "__typename": "ProductPrice"
+      },
+      "__typename": "PriceRange"
+     },
+     "availability": "1",
+     "promotion": "0",
+     "product_label": null,
+     "new_product": "0",
+     "url_key": "063550-organic-chicken-breast",
+     "primary_image": "/content/dam/trjo/products/m20802/63550.png",
+     "category_hierarchy": [
+      {
+       "name": "Products"
+      },
+      {
+       "name": "Food"
+      },
+      {
+       "name": "Meat, Seafood & Plant-based"
+      },
+      {
+       "name": "Chicken & Turkey"
+      }
+     ]
+    }
+   ],
+   "total_count": 36,
+   "page_info": {
+    "current_page": 1,
+    "page_size": 50,
+    "total_pages": 1,
+    "__typename": "SearchResultPageInfo"
+   }
+  }
+ }
+}

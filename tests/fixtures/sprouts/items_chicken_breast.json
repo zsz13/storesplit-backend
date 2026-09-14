@@ -1,0 +1,105 @@
+{
+ "data": {
+  "items": [
+   {
+    "id": "items_19462-41327369",
+    "name": "Boar's Head Brand FireSmith Flame Grilled Chicken Breast",
+    "size": "1 lb",
+    "productId": "41327369",
+    "brandName": "boar's head",
+    "evergreenUrl": "41327369-boar-s-head-firesmith-flame-grilled-chicken-breast-1-each",
+    "price": {
+     "viewSection": {
+      "itemCard": {
+       "priceString": "$14.99 /lb",
+       "fullPriceString": null,
+       "pricePerUnitString": null,
+       "pricingUnitString": "$0.94/oz",
+       "loyaltyProgramVariant": "hide",
+       "loyaltyPriceStringFormatted": null
+      }
+     }
+    },
+    "quantityAttributes": {
+     "quantityType": "weight"
+    },
+    "availability": {
+     "available": true,
+     "stockLevel": "inStock"
+    },
+    "viewSection": {
+     "retailerLookupCodeString": "UPC: 00205003000006",
+     "itemImage": {
+      "url": "https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_44956984-95ab-4689-b721-06690a8ed760.png"
+     }
+    }
+   },
+   {
+    "id": "items_19462-110027539",
+    "name": "Perdue Powered High Protein Chicken Bites",
+    "size": "20 oz",
+    "productId": "110027539",
+    "brandName": "perdue",
+    "evergreenUrl": "110027539-perdue-powered-high",
+    "price": {
+     "viewSection": {
+      "itemCard": {
+       "priceString": "$11.99",
+       "fullPriceString": "reg. $14.99",
+       "pricePerUnitString": null,
+       "pricingUnitString": "20 oz",
+       "loyaltyProgramVariant": "hide",
+       "loyaltyPriceStringFormatted": null
+      }
+     }
+    },
+    "quantityAttributes": {
+     "quantityType": "each"
+    },
+    "availability": {
+     "available": true,
+     "stockLevel": "inStock"
+    },
+    "viewSection": {
+     "retailerLookupCodeString": "UPC: 00072745814532",
+     "itemImage": {
+      "url": "https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_50fda535-df42-475b-8191-d46af07484d1.png"
+     }
+    }
+   },
+   {
+    "id": "items_19462-118216228",
+    "name": "Sprouts Herb Butter Chicken Breast",
+    "size": "1 lb",
+    "productId": "118216228",
+    "brandName": "sprouts",
+    "evergreenUrl": "118216228-sprouts-herb-butter-chicken-breast-1-lb",
+    "price": {
+     "viewSection": {
+      "itemCard": {
+       "priceString": "$7.49 /lb",
+       "fullPriceString": null,
+       "pricePerUnitString": null,
+       "pricingUnitString": null,
+       "loyaltyProgramVariant": "hide",
+       "loyaltyPriceStringFormatted": null
+      }
+     }
+    },
+    "quantityAttributes": {
+     "quantityType": "weight"
+    },
+    "availability": {
+     "available": true,
+     "stockLevel": "inStock"
+    },
+    "viewSection": {
+     "retailerLookupCodeString": "UPC: 00208351000001",
+     "itemImage": {
+      "url": "https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_4021f64c-d845-452f-85ee-6dc96fcabc20.png"
+     }
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "instore": {
+  "count": 3,
+  "stores": [
+   {
+    "distance": 0.67,
+    "locationId": "4601",
+    "timezone": "America/Los_Angeles",
+    "polarisBannerName": "safeway",
+    "domainName": "Safeway",
+    "address": {
+     "line1": "145 Jackson St",
+     "city": "San Francisco",
+     "state": "CA",
+     "country": "US",
+     "zipcode": "94111"
+    },
+    "localPage": "https://local.safeway.com/safeway/ca/san-francisco/145-jackson-st.html",
+    "isDUGStore": true,
+    "isPickupStore": true,
+    "isWFC": false,
+    "wfcStoreId": 5799,
+    "isNonMigratedStore": false,
+    "division": {
+     "name": "Norcal",
+     "number": "25"
+    },
+    "ecomStore": true
+   },
+   {
+    "distance": 0.86,
+    "locationId": "2606",
+    "timezone": "America/Los_Angeles",
+    "polarisBannerName": "safeway",
+    "domainName": "Safeway",
+    "address": {
+     "line1": "298 King St",
+     "city": "San Francisco",
+     "state": "CA",
+     "country": "US",
+     "zipcode": "94107"
+    },
+    "localPage": "https://local.safeway.com/safeway/ca/san-francisco/298-king-st.html",
+    "isDUGStore": true,
+    "isPickupStore": true,
+    "isWFC": false,
+    "wfcStoreId": 5799,
+    "isNonMigratedStore": false,
+    "division": {
+     "name": "Norcal",
+     "number": "25"
+    },
+    "ecomStore": true
+   },
+   {
+    "distance": 1.83,
+    "locationId": "1490",
+    "timezone": "America/Los_Angeles",
+    "polarisBannerName": "safeway",
+    "domainName": "Safeway",
+    "address": {
+     "line1": "2300 16th St Unit 203",
+     "city": "San Francisco",
+     "state": "CA",
+     "country": "US",
+     "zipcode": "94103"
+    },
+    "localPage": "https://local.safeway.com/safeway/ca/san-francisco/2300-16th-st-unit-203.html",
+    "isDUGStore": true,
+    "isPickupStore": true,
+    "isWFC": false,
+    "wfcStoreId": 5799,
+    "isNonMigratedStore": false,
+    "division": {
+     "name": "Norcal",
+     "number": "25"
+    },
+    "ecomStore": true
+   }
+  ],
+  "ack": "0"
+ },
+ "pickup": {
+  "count": 0,
+  "stores": []
+ }
+}

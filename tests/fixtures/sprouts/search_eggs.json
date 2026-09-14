@@ -1,0 +1,28 @@
+{
+ "data": {
+  "searchResultsPlacements": {
+   "searchId": "52c6f96b-df81-4726-81f7-de54a1413354",
+   "placements": [
+    {
+     "content": {
+      "__typename": "SearchContentManagementSearchItemGrid",
+      "itemIds": [
+       "items_19462-18021451",
+       "items_19462-18008901",
+       "items_19462-17264530",
+       "items_19462-56630714",
+       "items_19462-17857780",
+       "items_19462-37837154",
+       "items_19462-25651813"
+      ]
+     }
+    },
+    {
+     "content": {
+      "__typename": "SearchContentManagementSearchBanner"
+     }
+    }
+   ]
+  }
+ }
+}

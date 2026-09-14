@@ -1,0 +1,103 @@
+{
+ "count": 2,
+ "total": 2,
+ "items": [
+  {
+   "name": "Bananas est",
+   "sku": "00000000004011",
+   "productId": "00000000004011",
+   "price": "$0.27 avg/ea",
+   "priceNumeric": 0.2655,
+   "wasPrice": "$0.31 avg/ea",
+   "wasPriceNumeric": 0.3105,
+   "wholePrice": 0.59,
+   "pricePerUnit": "$0.59/lb",
+   "sellBy": "EachUnit",
+   "unitOfSize": {
+    "abbreviation": "lb",
+    "type": "pound",
+    "label": "Pound",
+    "size": 0.45
+   },
+   "unitOfPrice": {
+    "abbreviation": "lb",
+    "type": "pound",
+    "label": "Pound",
+    "size": 1.0
+   },
+   "available": true,
+   "priceSource": "tpr",
+   "priceLabel": "Every Day Low Prices",
+   "hasLoyaltyDiscount": false,
+   "tprPrice": [
+    {
+     "markdown": 0.2655,
+     "label": "Every Day Low Prices",
+     "effectiveFrom": null,
+     "effectiveUntil": null,
+     "wholePrice": 0.59,
+     "active": true
+    }
+   ],
+   "attributes": {
+    "our_brands": false
+   },
+   "image": {
+    "default": "https://images.cdn.smartandfinal.com/cell/00000000004011_Bananas.jfif",
+    "cell": "https://images.cdn.smartandfinal.com/cell/00000000004011_Bananas.jfif",
+    "details": "https://images.cdn.smartandfinal.com/detail/00000000004011_Bananas.jfif",
+    "zoom": "https://images.cdn.smartandfinal.com/zoom/00000000004011_Bananas.jfif",
+    "template": "https://images.cdn.smartandfinal.com/{size}/00000000004011_Bananas.jfif"
+   },
+   "defaultCategory": [
+    {
+     "categoryBreadcrumb": "Home/Fresh Produce/Fresh Fruit/Bananas"
+    }
+   ],
+   "promotions": []
+  },
+  {
+   "name": "Plantain Bananas",
+   "sku": "00000000004235",
+   "productId": "00000000004235",
+   "price": "$0.99/lb",
+   "priceNumeric": 0.99,
+   "wholePrice": 0.99,
+   "pricePerUnit": "$0.99/lb",
+   "sellBy": "Unit",
+   "unitOfSize": {
+    "abbreviation": "lb",
+    "type": "pound",
+    "label": "Pound",
+    "size": 1.0
+   },
+   "unitOfPrice": {
+    "abbreviation": "lb",
+    "type": "pound",
+    "label": "Pound",
+    "size": 1.0
+   },
+   "available": true,
+   "priceSource": "regular",
+   "priceLabel": "",
+   "hasLoyaltyDiscount": false,
+   "tprPrice": [],
+   "attributes": {
+    "our_brands": false
+   },
+   "image": {
+    "default": "https://images.cdn.smartandfinal.com/cell/00000000004235.jfif",
+    "cell": "https://images.cdn.smartandfinal.com/cell/00000000004235.jfif",
+    "details": "https://images.cdn.smartandfinal.com/detail/00000000004235.jfif",
+    "zoom": "https://images.cdn.smartandfinal.com/zoom/00000000004235.jfif",
+    "template": "https://images.cdn.smartandfinal.com/{size}/00000000004235.jfif"
+   },
+   "defaultCategory": [
+    {
+     "categoryBreadcrumb": "Home/Fresh Produce/Fresh Fruit/Bananas"
+    }
+   ],
+   "promotions": []
+  }
+ ]
+}

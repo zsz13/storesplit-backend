@@ -1,0 +1,28 @@
+{
+    "success": true,
+    "data": {
+        "ID": 1096,
+        "store_id": 276,
+        "title": "276-Daly City",
+        "name": "Daly City",
+        "address": "301 Gellert Blvd.",
+        "city": "Daly City",
+        "state": "CA",
+        "zip": "94015",
+        "distance": null,
+        "phone": "415-325-1091",
+        "thumbnail": "",
+        "link": "https://www.sprouts.com/store/ca/daly-city/gellert-blvd/",
+        "open_date": "1420502400",
+        "open_time": "7:00AM",
+        "close_time": "10:00PM",
+        "catering": true,
+        "delivery": true,
+        "pickup": true,
+        "weekly_ads": false,
+        "timezone": "America/Los_Angeles",
+        "related_stores": null,
+        "latitude": 37.668844,
+        "longitude": -122.466955
+    }
+}

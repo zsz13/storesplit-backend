@@ -1,0 +1,206 @@
+{
+ "data": {
+  "product_summaries": [
+   {
+    "tcin": "14662561",
+    "fulfillment": {
+     "sold_out": false,
+     "is_out_of_stock_in_all_store_locations": false,
+     "shipping_options": {
+      "availability_status": "OUT_OF_STOCK"
+     },
+     "store_options": [
+      {
+       "location_id": "3264",
+       "location_available_to_promise_quantity": 10.0,
+       "store": {
+        "location_name": "San Francisco Stonestown"
+       },
+       "order_pickup": {
+        "availability_status": "IN_STOCK"
+       },
+       "in_store_only": {
+        "availability_status": "IN_STOCK"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "tcin": "52235226",
+    "fulfillment": {
+     "sold_out": false,
+     "is_out_of_stock_in_all_store_locations": false,
+     "shipping_options": {
+      "availability_status": "OUT_OF_STOCK"
+     },
+     "store_options": [
+      {
+       "location_id": "3264",
+       "location_available_to_promise_quantity": 1.0,
+       "store": {
+        "location_name": "San Francisco Stonestown"
+       },
+       "order_pickup": {
+        "availability_status": "UNAVAILABLE"
+       },
+       "in_store_only": {
+        "availability_status": "LIMITED_STOCK"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "tcin": "79520023",
+    "fulfillment": {
+     "sold_out": false,
+     "is_out_of_stock_in_all_store_locations": false,
+     "shipping_options": {
+      "availability_status": "OUT_OF_STOCK"
+     },
+     "store_options": [
+      {
+       "location_id": "3264",
+       "location_available_to_promise_quantity": 9.0,
+       "store": {
+        "location_name": "San Francisco Stonestown"
+       },
+       "order_pickup": {
+        "availability_status": "IN_STOCK"
+       },
+       "in_store_only": {
+        "availability_status": "IN_STOCK"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "tcin": "21506498",
+    "fulfillment": {
+     "sold_out": false,
+     "is_out_of_stock_in_all_store_locations": false,
+     "shipping_options": {
+      "availability_status": "OUT_OF_STOCK"
+     },
+     "store_options": [
+      {
+       "location_id": "3264",
+       "location_available_to_promise_quantity": 0.0,
+       "store": {
+        "location_name": "San Francisco Stonestown"
+       },
+       "order_pickup": {
+        "availability_status": "UNAVAILABLE"
+       },
+       "in_store_only": {
+        "availability_status": "OUT_OF_STOCK"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "tcin": "21567033",
+    "fulfillment": {
+     "sold_out": false,
+     "is_out_of_stock_in_all_store_locations": false,
+     "shipping_options": {
+      "availability_status": "OUT_OF_STOCK"
+     },
+     "store_options": [
+      {
+       "location_id": "3264",
+       "location_available_to_promise_quantity": 0.0,
+       "store": {
+        "location_name": "San Francisco Stonestown"
+       },
+       "order_pickup": {
+        "availability_status": "UNAVAILABLE"
+       },
+       "in_store_only": {
+        "availability_status": "NOT_SOLD_IN_STORE"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "tcin": "80284842",
+    "fulfillment": {
+     "sold_out": false,
+     "is_out_of_stock_in_all_store_locations": false,
+     "shipping_options": {
+      "availability_status": "OUT_OF_STOCK"
+     },
+     "store_options": [
+      {
+       "location_id": "3264",
+       "location_available_to_promise_quantity": 10.0,
+       "store": {
+        "location_name": "San Francisco Stonestown"
+       },
+       "order_pickup": {
+        "availability_status": "IN_STOCK"
+       },
+       "in_store_only": {
+        "availability_status": "IN_STOCK"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "tcin": "53438398",
+    "fulfillment": {
+     "sold_out": false,
+     "is_out_of_stock_in_all_store_locations": false,
+     "shipping_options": {
+      "availability_status": "UNAVAILABLE"
+     },
+     "store_options": [
+      {
+       "location_id": "3264",
+       "location_available_to_promise_quantity": 0.0,
+       "store": {
+        "location_name": "San Francisco Stonestown"
+       },
+       "order_pickup": {
+        "availability_status": "UNAVAILABLE"
+       },
+       "in_store_only": {
+        "availability_status": "NOT_SOLD_IN_STORE"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "tcin": "95015897",
+    "fulfillment": {
+     "sold_out": false,
+     "is_out_of_stock_in_all_store_locations": false,
+     "shipping_options": {
+      "availability_status": "OUT_OF_STOCK"
+     },
+     "store_options": [
+      {
+       "location_id": "3264",
+       "location_available_to_promise_quantity": 0.0,
+       "store": {
+        "location_name": "San Francisco Stonestown"
+       },
+       "order_pickup": {
+        "availability_status": "UNAVAILABLE"
+       },
+       "in_store_only": {
+        "availability_status": "NOT_SOLD_IN_STORE"
+       }
+      }
+     ]
+    }
+   }
+  ]
+ }
+}

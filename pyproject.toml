@@ -1,0 +1,67 @@
+[project]
+name = "storesplit-backend"
+version = "0.1.0"
+description = "StoreSplit backend: scrape grocery prices, normalize them, and compare across retailers."
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi",
+    "uvicorn[standard]",
+    "sqlalchemy[asyncio]>=2.0",
+    "alembic",
+    "asyncpg",
+    "aiosqlite",
+    "pydantic>=2",
+    "pydantic-settings",
+    "httpx",
+    # Coordinates -> IANA timezone, offline. A self-contained wheel with no runtime
+    # dependencies of its own, carrying the timezone-boundary polygons: it is the only way to
+    # read a zone off a store's own coordinates without asking a billed third party. See
+    # `app/normalize/timezones.py`.
+    "tzfpy",
+]
+
+[project.optional-dependencies]
+browser = [
+    "playwright>=1.62.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest",
+    "pytest-asyncio",
+    "ruff",
+    "pyright",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["app"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+asyncio_mode = "auto"
+asyncio_default_fixture_loop_scope = "function"
+filterwarnings = ["error::DeprecationWarning:app.*"]
+
+[tool.ruff]
+target-version = "py313"
+line-length = 100
+src = ["app", "tests", "scripts"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "N", "SIM", "RUF"]
+ignore = ["RUF012"]
+
+[tool.ruff.lint.per-file-ignores]
+"app/api/*" = ["B008"]  # FastAPI's Depends() in defaults is the framework idiom
+
+[tool.pyright]
+pythonVersion = "3.13"
+include = ["app", "scripts"]
+typeCheckingMode = "standard"
+venvPath = "."
+venv = ".venv"

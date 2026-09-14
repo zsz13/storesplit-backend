@@ -1,0 +1,106 @@
+{
+ "storeDetailsV2": {
+  "storeId": "714",
+  "displayName": "MOWRY",
+  "location": {
+   "latitude": 37.53512,
+   "longitude": -121.999794,
+   "address1": "5000 MOWRY AVE",
+   "city": "FREMONT",
+   "state": "CA",
+   "country": "US",
+   "timezone": "America/Los_Angeles",
+   "postalCode": "94538"
+  },
+  "phoneNumbers": [
+   {
+    "value": "15107441660",
+    "description": "Main"
+   }
+  ],
+  "hours": {
+   "weekly": [
+    {
+     "day": "MONDAY",
+     "daily": {
+      "open": {
+       "open": "06:00:00",
+       "close": "22:00:00"
+      },
+      "type": "OPEN"
+     }
+    },
+    {
+     "day": "TUESDAY",
+     "daily": {
+      "open": {
+       "open": "06:00:00",
+       "close": "22:00:00"
+      },
+      "type": "OPEN"
+     }
+    },
+    {
+     "day": "WEDNESDAY",
+     "daily": {
+      "open": {
+       "open": "06:00:00",
+       "close": "22:00:00"
+      },
+      "type": "OPEN"
+     }
+    },
+    {
+     "day": "THURSDAY",
+     "daily": {
+      "open": {
+       "open": "06:00:00",
+       "close": "22:00:00"
+      },
+      "type": "OPEN"
+     }
+    },
+    {
+     "day": "FRIDAY",
+     "daily": {
+      "open": {
+       "open": "06:00:00",
+       "close": "23:00:00"
+      },
+      "type": "OPEN"
+     }
+    },
+    {
+     "day": "SATURDAY",
+     "daily": {
+      "open": {
+       "open": "06:00:00",
+       "close": "23:00:00"
+      },
+      "type": "OPEN"
+     }
+    },
+    {
+     "day": "SUNDAY",
+     "daily": {
+      "open": {
+       "open": "06:00:00",
+       "close": "23:00:00"
+      },
+      "type": "OPEN"
+     }
+    }
+   ],
+   "special": []
+  },
+  "amenities": [],
+  "waysToShop": [
+   "IN_STORE"
+  ],
+  "darkStore": false,
+  "departments": [],
+  "payments": [],
+  "webLinks": [],
+  "languages": []
+ }
+}
